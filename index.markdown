@@ -10,4 +10,5 @@ title: Homepage
 
 I am a math PhD student at Freie Universität Berlin.  
 My research interest is stochastic analysis. Recently I work on topics around fractional Brownian motions.  
-I am very fortunate to be supervised by [Nicolas Perkowski](https://www.mi.fu-berlin.de/math/groups/stoch/members/Professors/perkowski.html). 
+I am very fortunate to be supervised by [Nicolas Perkowski](https://www.mi.fu-berlin.de/math/groups/stoch/members/Professors/perkowski.html).  
+I am a member of [International Research Training Group (IRTG) 2544](https://www3.math.tu-berlin.de/stoch/IRTG/): Stochastic Analysis in Interaction.
