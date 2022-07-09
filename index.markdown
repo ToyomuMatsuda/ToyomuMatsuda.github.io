@@ -15,7 +15,7 @@ I am a member of [International Research Training Group (IRTG) 2544](https://www
 
 Before coming to Germany, I obtained M.S. from Kyushu University (supervised by [Yuzuru Inahama](https://www2.math.kyushu-u.ac.jp/~inahama/)) and B.S. from Kobe University (supervised by [Naotaka Kajino](https://www.kurims.kyoto-u.ac.jp/~nkajino/)). 
 
-I was born in a beautiful place called Okinawa, Japan. 
+I was born in a beautiful place called [Okinawa](https://en.wikipedia.org/wiki/Okinawa_Island). 
 
 ## Preprints
 1. [An extension of the stochastic sewing lemma and applications to fractional stochastic calculus](https://arxiv.org/abs/2206.01686), with Nicolas Perkowski. 
