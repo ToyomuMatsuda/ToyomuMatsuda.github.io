@@ -13,7 +13,7 @@ My research interest is stochastic analysis. Recently I work on topics around fr
 I am very fortunate to be supervised by [Nicolas Perkowski](https://www.mi.fu-berlin.de/math/groups/stoch/members/Professors/perkowski.html).  
 I am a member of [International Research Training Group (IRTG) 2544](https://www3.math.tu-berlin.de/stoch/IRTG/): Stochastic Analysis in Interaction. 
 
-Before coming to Germany, I obtained MS from Kyushu University (supervised by [Yuzuru Inahama](https://www2.math.kyushu-u.ac.jp/~inahama/) and BS from Kobe University (supervised [Naotaka Kajino](https://www.kurims.kyoto-u.ac.jp/~nkajino/)). 
+Before coming to Germany, I obtained M.S. from Kyushu University (supervised by [Yuzuru Inahama](https://www2.math.kyushu-u.ac.jp/~inahama/)) and B.S. from Kobe University (supervised [Naotaka Kajino](https://www.kurims.kyoto-u.ac.jp/~nkajino/)). 
 
 ## Preprints
 1. [An extension of the stochastic sewing lemma and applications to fractional stochastic calculus](https://arxiv.org/abs/2206.01686), with Nicolas Perkowski. 
