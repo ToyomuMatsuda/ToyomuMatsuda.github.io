@@ -6,7 +6,7 @@ layout: page
 title: Homepage
 ---
 
-<img src="./pictures/selfie.jpg" alt="drawing" width="200"/>
+<img src="./pictures/selfie.jpg" alt="drawing" width="200" style="float: right;"/>
 
 I am a math PhD student at Freie Universität Berlin.
 My research interest is stochastic analysis. Recently I work on topics around fractional Brownian motions.
