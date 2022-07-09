@@ -6,7 +6,9 @@ layout: page
 title: Homepage
 ---
 
-|<img style="float: right;" src="./pictures/selfie.jpg" width="200"/>| aiu |
+<img style="float: right;" src="./pictures/selfie.jpg" width="200"/>
+
 I am a math PhD student at Freie Universität Berlin.
 My research interest is stochastic analysis. Recently I work on topics around fractional Brownian motions.
-I am very fortunate to be supervised by Nicolas Perkowski. |
+
+I am very fortunate to be supervised by Nicolas Perkowski. 
