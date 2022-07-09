@@ -8,6 +8,6 @@ title: Homepage
 
 <img style="float: right;" src="./pictures/selfie.jpg" width="200"/>
 
-I am a math PhD student at Freie Universität Berlin.
+I am a math PhD student at Freie Universität Berlin.  
 My research interest is stochastic analysis. Recently I work on topics around fractional Brownian motions.  
-I am very fortunate to be supervised by Nicolas Perkowski. 
+I am very fortunate to be supervised by [Nicolas Perkowski](https://www.mi.fu-berlin.de/math/groups/stoch/members/Professors/perkowski.html). 
