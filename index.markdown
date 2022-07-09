@@ -17,6 +17,6 @@ Before coming to Germany, I obtained M.S. from Kyushu University (supervised by 
 
 I was born in a beautiful place called [Okinawa](https://en.wikipedia.org/wiki/Okinawa_Island). 
 
-## Preprints
+## Submitted
 1. [An extension of the stochastic sewing lemma and applications to fractional stochastic calculus](https://arxiv.org/abs/2206.01686), with Nicolas Perkowski. 
 2. [Integrated density of states of the Anderson Hamiltonian with two-dimensional white noise](https://arxiv.org/abs/2011.09180).
