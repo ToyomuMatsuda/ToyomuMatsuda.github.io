@@ -6,7 +6,7 @@ layout: page
 title: Homepage
 ---
 
-![selfie](./pictures/selfie.jpg | width = 100)
+![selfie](./pictures/selfie.jpg =100x100)
 I am a math PhD student at Freie Universität Berlin.
 My research interest is stochastic analysis. Recently I work on topics around fractional Brownian motions.
 I am very fortunate to be supervised by Nicolas Perkowski. 
