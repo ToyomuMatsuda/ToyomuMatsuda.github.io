@@ -52,7 +52,7 @@ the funding of their supervisors. I receive around 2000€ without teaching and 
 I received a mac laptop and travel costs from my supervisor's funding.
 
 ## Number and diversity of PhD students
-You can find some statistics on science in Japan from [this official document](https://www.nistep.go.jp/wp/wp-content/uploads/NISTEP-RM311-SummaryE.pdf).
+You can find some statistics on science in Japan from [this official document](https://www.nistep.go.jp/wp/wp-content/uploads/NISTEP-RM311-SummaryE.pdf), based on which I will discuss here.
 A more detailed information are available [here](https://www.nistep.go.jp/research/science-and-technology-indicators-and-scientometrics/indicators) but only in Japanese.
 ![number of PhDs](/assets/2022-09-13-number-of-phds.png)
 The above graph shows numbers of new PhD recipients per 10,000 people of some countries.
@@ -62,8 +62,8 @@ are much more significant than the above data shows, at least in mathematics.
 For instance, in 2020 there are around 20 PhD students working on the field of probability theory in Japan, but
 I know more than 20 PhD students in that field only in Berlin.
 
-<img style="float: left;" src="/assets/2022-09-13-number-of-phds-female.png" width="200"/>
-<img style="float: right;" src="/assets/2022-09-13-number-of-phds-male.png" width="200"/>
+<img src="/assets/2022-09-13-number-of-phds-female.png" width="400"/>
+<img src="/assets/2022-09-13-number-of-phds-male.png" width="400"/>
 
 The above graphs show the number of female (red) and male (blue) PhD students in Japan.
 But in many fields of science including math, female/male differences are much larger than shown in the graphs.
