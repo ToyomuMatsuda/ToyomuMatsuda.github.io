@@ -57,7 +57,7 @@ You can find some statistics on science in Japan from [this official document](h
 A more detailed information are available [here](https://www.nistep.go.jp/research/science-and-technology-indicators-and-scientometrics/indicators) but only in Japanese.
 ![number of PhDs](/assets/2022-09-13-number-of-phds.png)
 The above graph shows numbers of new PhD recipients per 10,000 people of some countries.
-In Japan, the numbers of PhD recipients are slightly declining and now surpassed by Korea.
+**In Japan, the numbers of PhD recipients are slightly declining** and now surpassed by Korea.
 But I feel that the differece between the number of PhD students in Japan and those of western countries
 are much more significant than the above data shows, at least in mathematics.
 For instance, in 2020 there are around 20 PhD students working on the field of probability theory in Japan, but
@@ -67,13 +67,25 @@ I know more than 20 PhD students in that field only in Berlin.
 <img src="/assets/2022-09-13-number-of-phds-male.png" width="350"/>
 
 The above graphs show the number of female (red) and male (blue) PhD students in Japan.
-But in many fields of science including math, female/male differences are much larger than shown in the graphs.
+But in many fields of science including math, female/male differences should be much larger than shown in the graphs.
 Yet, this still seems to be a universal problem. For instance, among 16 PhD candidates from
 [my research program](https://www3.math.tu-berlin.de/stoch/IRTG/phd-students/), there are 4 female candidates.
 (Although the situation is much better than in Japan.)
 
-Compared to wester universities, the number of international PhD students is quite small. Unfortunately I could not find any data on it; this might manifest that people in Japan do not pay
-much attention to this problem. At the same time, I feel that it is a universal problem for non-western universities
-to attract strong international students. It is interesting to see if China can change the situation.
+Compared to western universities, the number of international PhD students is quite small. Unfortunately I could not find any data on it; this might manifest that people in Japan do not pay
+much attention to it. At the same time, **I feel that it is a universal issue for non-western universities to attract strong international students**.
+It is interesting to see if China can change the situation.
 
----continued.
+
+## Why pursuing a PhD is hard in Japan
+Now a question is why it is so hard to pursue a PhD in Japan. Here are my possible answers.
+
+#### Lack of budget
+Written later.
+
+#### Evaluation of PhD recipients
+Written later.
+
+
+## What will happen?
+Written later.
