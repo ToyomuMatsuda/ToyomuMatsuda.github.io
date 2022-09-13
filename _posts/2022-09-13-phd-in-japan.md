@@ -9,7 +9,8 @@ I guess that they are less than 10 (even 5) % of those pursuing PhD in Japan.
 For instance, I was the only person, among math master students (around 40 students) at my previous university (Kyushu university) in 2020, who
 left Japan for a PhD.
 
-As a rare Japanese who is pursuing a math PhD in Germany, here I want to compare the PhD systems (math) in these two countries.
+As a rare Japanese who is pursuing a math PhD in Germany, here I want to examine Japanese PhD system in
+comparison to German one.
 If you want to share the PhD system in your country, I appreciate it if you leave a comment below.
 
 ## Funding
@@ -70,5 +71,10 @@ But in many fields of science including math, female/male differences are much l
 Yet, this still seems to be a universal problem. For instance, among 16 PhD candidates from
 [my research program](https://www3.math.tu-berlin.de/stoch/IRTG/phd-students/), there are 4 female candidates.
 (Although the situation is much better than in Japan.)
+
+Compared to wester universities, the number of international PhD students is quite small.
+unfortunately I could not find any data on it; this might manifest that people in Japan do not pay
+much attention to this problem. At the same time, I feel that it is a universal problem for non-wester universities
+to attract strong international students. It is interesting to see if China can change the situation.
 
 ---continued.
