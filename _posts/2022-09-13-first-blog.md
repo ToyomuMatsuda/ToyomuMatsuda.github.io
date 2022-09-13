@@ -53,18 +53,13 @@ I received a mac laptop and travel costs from my supervisor's funding.
 ## Number and diversity of PhD students
 You can find some statistics on science in Japan from [this official document](https://www.nistep.go.jp/wp/wp-content/uploads/NISTEP-RM311-SummaryE.pdf).
 A more detailed information are available [here](https://www.nistep.go.jp/research/science-and-technology-indicators-and-scientometrics/indicators) but only in Japanese.
-<p style="text-align:center;">
-<img src="./_posts/pictures/2022-09-13-number-of-phds.png" alt="number of PhDs" width="500"/>
-</p>
-<p style="text-align:center;">
-<img src="./pictures/2022-09-13-number-of-phds.png" alt="number of PhDs" width="500"/>
-</p>
-
-<img style="float: right;" src="./pictures/selfie.jpg" width="200"/>
-
-<img style="float: right;" src="/_posts/pictures/2022-09-13-number-of-phds.png" width="200"/>
 ![number of PhDs](/assets/2022-09-13-number-of-phds.png)
-a
+The above graph shows numbers of new PhD recipients per 10,000 people of some countries.
+In Japan, the numbers of PhD recipients are slightly declining and now surpassed by Korea.
+But I feel that the differece between the number of PhD students in Japan and those of western countries
+are much more significant than the above data shows, at least in mathematics.
+For instance, in 2020 there are around 20 PhD students working on the field of probability theory in Japan, but
+I know more than 20 PhD students in that field only in Berlin.
 
 
 ---continued.
