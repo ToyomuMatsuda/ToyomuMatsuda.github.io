@@ -9,7 +9,7 @@ I guess that they are less than 10 (even 5) % of those pursuing PhD in Japan.
 For instance, I was the only person, among math master students (around 40 students) at my previous university (Kyushu university) in 2020, who
 left Japan for a PhD.
 
-As a rare Japanese who is pursuing a math PhD in Germany, here I want to examine Japanese PhD system in
+As a rare Japanese who is pursuing a math PhD in Germany, here I want to examine Japanese PhD system (math) in
 comparison to German one.
 If you want to share the PhD system in your country, I appreciate it if you leave a comment below.
 
