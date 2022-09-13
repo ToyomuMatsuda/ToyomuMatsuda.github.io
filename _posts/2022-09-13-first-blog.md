@@ -24,9 +24,10 @@ To some degree, you have to write a proposal for any PhD application, but DC1 se
 especially for math students who just finished the first-year master study.
 I spent two months of writing the DC1 proposal and I always felt 'what the hell am I supposed to write?'.
 
-The acceptance rate of DC1 is scary: **20 %**. This sounds even scarier if you take into consideration
-the number of PhD students in Japan, which I will discuss later. How come a developed country like Japan
-funds only 20 percent of PhD students? By the way, I failed DC1.
+The acceptance rate of DC1 is scary: **20 %**.
+This is not because we have many PhD students, as I will discuss later. How come a developed country like Japan
+funds only 20 percent of PhD students?
+By the way I failed DC1.
 
 **In Germany, I have never seen PhD students who are not funded**. As for math PhD in Berlin,
 there are at least three major ways to get funding. The first is to receive scholarship from the Berlin Mathematical
@@ -36,8 +37,8 @@ The third, which applies to me, is to be employed by a university through some p
 
 Only 20% of PhD students in Japan are funded through DC1. Many people say that whether you can win DC1 is a
 matter of politics and that failing DC1 does not reflect on your ability so much. Indeed, there are some
-researchers who now have a position in a university but could not get DC1 or DC2. Yet, failing DC1 has a huge
-adverse effect on your confidence.
+researchers who now have a position in a university but could not get DC1 or DC2. Yet, failing DC1 or DC2 means
+a hard life due to lack of money and also has a huge adverse effect on your confidence.
 
 If they fail DC1, they must go through the first year of the PhD without funding. They can earn by teaching assistance, but in most cases this is by far insufficient for living. Many of them end up in doing part-time jobs.
 However, *they could get funding from the second year, if they win DC2*. The format of DC2 is exactly the same
@@ -61,5 +62,11 @@ are much more significant than the above data shows, at least in mathematics.
 For instance, in 2020 there are around 20 PhD students working on the field of probability theory in Japan, but
 I know more than 20 PhD students in that field only in Berlin.
 
+![female PhDs](/assets/2022-09-13-number-of-phds-female.png) ![male PhDs](/assets/2022-09-13-number-of-phds-male.png)
+The above graphs show the number of female (red) and male (blue) PhD students in Japan.
+But in many fields of science including math, female/male differences are much larger than shown in the graphs.
+Yet, this still seems to be a universal problem. For instance, among 16 PhD candidates from
+[my research program](https://www3.math.tu-berlin.de/stoch/IRTG/phd-students/), there are 4 female candidates.
+(Although the situation is much better than in Japan.)
 
 ---continued.
