@@ -63,6 +63,7 @@ A more detailed information are available [here](https://www.nistep.go.jp/resear
 <img style="float: right;" src="./pictures/selfie.jpg" width="200"/>
 
 <img style="float: right;" src="/_posts/pictures/2022-09-13-number-of-phds.png" width="200"/>
+a
 
 
 ---continued.
