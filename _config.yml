@@ -32,9 +32,9 @@ minima:
     # keybase: jekyll
 
     # Mastodon instances
-    mastodon:
-     - username: ToyomuMatsuda
-       instance: mastodon.social
+    #mastodon:
+     #- username: ToyomuMatsuda
+     # instance: mastodon.social
     # - username: jekyll2
     #   instance: example.com
 
