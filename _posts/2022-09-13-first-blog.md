@@ -60,5 +60,9 @@ A more detailed information are available [here](https://www.nistep.go.jp/resear
 <img src="./pictures/2022-09-13-number-of-phds.png" alt="number of PhDs" width="500"/>
 </p>
 
+<img style="float: right;" src="./pictures/selfie.jpg" width="200"/>
+
+<img style="float: right;" src="./pictures/2022-09-13-number-of-phds.png" width="200"/>
+
 
 ---continued.
