@@ -62,8 +62,8 @@ are much more significant than the above data shows, at least in mathematics.
 For instance, in 2020 there are around 20 PhD students working on the field of probability theory in Japan, but
 I know more than 20 PhD students in that field only in Berlin.
 
-<img src="/assets/2022-09-13-number-of-phds-female.png" width="400"/>
-<img src="/assets/2022-09-13-number-of-phds-male.png" width="400"/>
+<img src="/assets/2022-09-13-number-of-phds-female.png" width="350"/>
+<img src="/assets/2022-09-13-number-of-phds-male.png" width="350"/>
 
 The above graphs show the number of female (red) and male (blue) PhD students in Japan.
 But in many fields of science including math, female/male differences are much larger than shown in the graphs.
