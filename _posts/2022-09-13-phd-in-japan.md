@@ -72,9 +72,8 @@ Yet, this still seems to be a universal problem. For instance, among 16 PhD cand
 [my research program](https://www3.math.tu-berlin.de/stoch/IRTG/phd-students/), there are 4 female candidates.
 (Although the situation is much better than in Japan.)
 
-Compared to wester universities, the number of international PhD students is quite small.
-unfortunately I could not find any data on it; this might manifest that people in Japan do not pay
-much attention to this problem. At the same time, I feel that it is a universal problem for non-wester universities
+Compared to wester universities, the number of international PhD students is quite small. Unfortunately I could not find any data on it; this might manifest that people in Japan do not pay
+much attention to this problem. At the same time, I feel that it is a universal problem for non-western universities
 to attract strong international students. It is interesting to see if China can change the situation.
 
 ---continued.
