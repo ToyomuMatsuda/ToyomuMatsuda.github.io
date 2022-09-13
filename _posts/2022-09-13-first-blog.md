@@ -44,7 +44,7 @@ However, they could get funding from the second year, if they win DC2. The forma
 as DC1, and the acceptance rate is almost the same as that of DC1.
 
 In addition to the acceptance rate, another scary aspect is how much winners of DC1 or DC2 receive.
-*They receive around 150000 JPY (≈ 1040€, on Sep 13, 2022) per month after tax* for living, with *maximum* 1500000 per year for
+**They receive around 150000 JPY (≈ 1040€, on Sep 13, 2022) per month after tax** for living, with *maximum* 1500000 JPY (≈ 10400€) per year for
 research (e.g. traveling, buying laptop and etc).
 In Berlin, math PhD students receive at least 1500€ per month for living, and their travels are usually covered by
 the funding of their supervisors. I receive around 2000€ without teaching and 2700€ with teaching.
