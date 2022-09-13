@@ -54,7 +54,10 @@ I received a mac laptop and travel costs from my supervisor's funding.
 You can find some statistics on science in Japan from [this official document](https://www.nistep.go.jp/wp/wp-content/uploads/NISTEP-RM311-SummaryE.pdf).
 A more detailed information are available [here](https://www.nistep.go.jp/research/science-and-technology-indicators-and-scientometrics/indicators) but only in Japanese.
 <p style="text-align:center;">
-<img src="./_posts/pictures/2022-09-13-number-of-phds.png" alt="number of PhDs" width="500">
+<img src="./_posts/pictures/2022-09-13-number-of-phds.png" alt="number of PhDs" width="500"/>
+</p>
+<p style="text-align:center;">
+<img src="./pictures/2022-09-13-number-of-phds.png" alt="number of PhDs" width="500"/>
 </p>
 
 
