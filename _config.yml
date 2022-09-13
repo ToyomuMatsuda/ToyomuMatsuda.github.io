@@ -56,3 +56,12 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+
+# Disqus Comments
+#https://cuda-chen.github.io/blogging/2020/03/28/add-Disqus-to-Jekyll-Minima-theme-simplified.html
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: toyomumatsuda
+
+url: https://toyomumatsuda.github.io/
