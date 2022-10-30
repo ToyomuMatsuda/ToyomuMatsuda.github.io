@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "How we wrote a paper: An extension of the stochastic sewing lemma and its applications to fractional stochastic calculus"
+mathjax: true
 ---
 
 It is often more interesting to know the process of writing a paper than
@@ -58,4 +59,4 @@ Brownian motion $$B^H$$ with Hurst parameter $$H \in (0, 1)$$ it is well-known t
 
 $$\lim_{\vert \pi \vert \to 0} \sum_{[s,t] \in \pi} \vert B^H_t - B^H_s \vert^{1/H} = c_H$$,
 
-where $\pi$ is a partition of $[0, 1]$ and $c_H$ is a some constant. 
+where $\pi$ is a partition of $[0, 1]$ and $c_H$ is a some constant.
