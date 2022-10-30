@@ -54,6 +54,8 @@ was regarded as a breakthrough result in Berlin community. For a week I spent al
 and it was a very beautiful paper! No wonder why it was (and is as of writing) so popular in Berlin.
 However, it was no obvious how one can use the stochastic sewing to tackle the problem of Nicolas and Rama.
 During another lunch, we talked about it, and he suggested a simpler problem: for a fractional
-Brownian motion $B^H$ with Hurst parameter $H \in (0, 1)$ it is well-known that
+Brownian motion $$B^H$$ with Hurst parameter $$H \in (0, 1)$$ it is well-known that
+
 $$\lim_{\vert \pi \vert \to 0} \sum_{[s,t] \in \pi} \vert B^H_t - B^H_s \vert^{1/H} = c_H$$,
+
 where $\pi$ is a partition of $[0, 1]$ and $c_H$ is a some constant. 
