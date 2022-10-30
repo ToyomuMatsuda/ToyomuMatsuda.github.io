@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "How we wrote a paper ``An extension of the stochastic sewing lemma and its applications to fractional stochastic calculus''"
+title:  "How we wrote a paper: An extension of the stochastic sewing lemma and its applications to fractional stochastic calculus"
 ---
 
 It is often more interesting to know the process of writing a paper than
 to understand the paper itself. Here I record my journey on writing the
-paper ``An extension of the stochastic sewing lemma and its
-applications to fractional stochastic calculus''.
+paper "An extension of the stochastic sewing lemma and its
+applications to fractional stochastic calculus".
 
 It started around the middle of 2021. As a member of PhD program, I was
 supposed to visit Oxford for research. At that time I was mainly working
@@ -55,5 +55,5 @@ and it was a very beautiful paper! No wonder why it was (and is as of writing) s
 However, it was no obvious how one can use the stochastic sewing to tackle the problem of Nicolas and Rama.
 During another lunch, we talked about it, and he suggested a simpler problem: for a fractional
 Brownian motion $B^H$ with Hurst parameter $H \in (0, 1)$ it is well-known that
-$$ \lim_{\vert \pi \vert \to 0} \sum_{[s,t] \in \pi} \vert B^H_t - B^H_s \vert^{1/H} = c_H $$,
+$$\lim_{\vert \pi \vert \to 0} \sum_{[s,t] \in \pi} \vert B^H_t - B^H_s \vert^{1/H} = c_H$$,
 where $\pi$ is a partition of $[0, 1]$ and $c_H$ is a some constant. 
