@@ -51,14 +51,31 @@ discussed the problem, and Nicolas suggested me to use <i>stochastic
 sewing lemma</i>, another key phrase from the title of our paper.
 
 The [stochastic sewing lemma](https://projecteuclid.org/journals/electronic-journal-of-probability/volume-25/issue-none/A-stochastic-sewing-lemma-and-applications/10.1214/20-EJP442.full) was a result proved by Khoa Lê, and
-was regarded as a breakthrough result in Berlin community. For a week I spent almost all my effort to read the paper,
+was regarded as a breakthrough result in Berlin community. For a week I spent almost all my time to read the paper,
 and it was a very beautiful paper! No wonder why it was (and is as of writing) so popular in Berlin.
 However, it was no obvious how one can use the stochastic sewing to tackle the problem of Nicolas and Rama.
 During another lunch, we talked about it, and he suggested a simpler problem: for a fractional
-Brownian motion $$B^H$$ with Hurst parameter $$H \in (0, 1)$$ it is well-known that
+Brownian motion $B^H$ with Hurst parameter $H \in (0, 1)$ it is well-known that
 
 \\[
-\lim_{\vert \pi \vert \to 0} \sum_{[s,t] \in \pi} \vert B^H_t - B^H_s \vert^{1/H} = c_H,
+\lim_{\vert \pi \vert \to 0} \sum_{[s,t] \in \pi} \vert B^H_t - B^H_s \vert^{1/H} = c_H, \tag{1}
 \\]
 
-where $\pi$ is a partition of $[0, 1]$ and $c_H$ is a some constant.
+where $\pi$ is a partition of $[0, 1]$ and $c_H$ is a some constant, and can we give a proof by stochastic sewing?
+It became clear soon to me that Khoa's stochastic sewing is not sufficient to prove this fundamental result.
+
+Meanwhile, Nicolas sent me a paper of [Mukeru](https://www.sciencedirect.com/science/article/abs/pii/S0167715217302596), hoping that it could help solve the problem.
+The paper was difficult, but it cited an interesting result of [Picard](https://projecteuclid.org/journals/annals-of-probability/volume-36/issue-6/A-tree-approach-to-p-variation-and-to-integration/10.1214/07-AOP388.full).
+In fact, the discovery of Picard's result was the most important step in our work.
+It showed the *asymptotic independence* of fractional Brownian motion, and
+based on that idea I proved an asymptotic version of Khoa's stochastic sewing, which
+proves the convergence (1).
+
+I was very happy about it, and next day I went to Nicolas' office to show my proof.
+Well, actually it was not a proof. Nicolas spotted a mistake in the proof,
+and then I felt a bit devastated for my stupidity.
+But Nicolas is so kind that he encouraged me to push my idea.
+So after going back to home, I tried to fix my mistake, and fortunately it worked,
+but under some technical conditions.
+
+Added later....
