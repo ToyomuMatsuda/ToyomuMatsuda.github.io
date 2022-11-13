@@ -6,7 +6,7 @@ layout: home
 title: Home
 ---
 
-<img style="float: right; margin-left:20px" src="./pictures/selfie.jpg" width="200"/>
+<img style="float: right; margin-left:50px" src="./pictures/selfie.jpg" width="200"/>
 
 I am a math PhD student at Freie Universität Berlin and a member of [International Research Training Group (IRTG) 2544](https://www3.math.tu-berlin.de/stoch/IRTG/): Stochastic Analysis in Interaction.
 
