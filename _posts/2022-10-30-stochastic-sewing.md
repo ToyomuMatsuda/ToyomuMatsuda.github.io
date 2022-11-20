@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "How we wrote a paper: An extension of the stochastic sewing lemma and its applications to fractional stochastic calculus"
+title:  "Journey on the paper "An extension of the stochastic sewing lemma""
 mathjax: true
 ---
 
-It is often more interesting to know the process of writing a paper than
-to understand the paper itself. Here I record my journey on writing the
+Here I record my journey on writing the
 paper "An extension of the stochastic sewing lemma and its
 applications to fractional stochastic calculus".
 
@@ -78,4 +77,18 @@ But Nicolas is so kind that he encouraged me to push my idea.
 So after going back to home, I tried to fix my mistake, and fortunately it worked,
 but under some technical conditions.
 
-Added later....
+During a coffee time, I was talking with Helena (PhD student of Nicolas) about it, and we were discussing if
+it can be used for the stochastic integral $\int_0^t f(B^H_s) \mathrm{d} B^H_s$ (of course this question was raised by Nicolas).
+During the discussion we didn't make any success but afterwards I got an idea, which became Section 3 of our paper.
+Another day I was discussing with Hannes (PhD student of Peter Friz) if we could use the new stochastic sewing for a result on
+local time. Again during the discussion we went nowhere, but afterwards I got an idea, which became Section 4 of our paper.
+However it took a while to remove the technical conditions mentioned in the previous paragraph.
+
+It was a day when I was tired, too tired to go to a social event of the Berlin mathematical society.
+Before that, I had a very vague idea to remove the technical conditions, but due to the afraid that it probably wouldn't work,
+I had not tried the idea. But I needed my personal excuse for not going to the social event, I decided to try the idea.
+On the contrary to my expectation that it would fail, after some calculations I started to feel like something is going on,
+I got so excited that I couldn't sleep, and  I worked on until 2am. Next days I continued to work on the problem,
+and I was able to remove the technical conditions (which forms Appendix of the paper).
+
+This was the first moment that I felt I did real mathematics.
