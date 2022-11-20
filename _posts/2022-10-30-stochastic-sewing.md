@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Journey on the paper "An extension of the stochastic sewing lemma""
+title:  "Journey on the paper \"An extension of the stochastic sewing lemma\""
 mathjax: true
 ---
 
