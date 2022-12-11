@@ -10,7 +10,10 @@ title: Home
 
 I am a math PhD student at Freie Universität Berlin and a member of [International Research Training Group (IRTG) 2544](https://www3.math.tu-berlin.de/stoch/IRTG/): Stochastic Analysis in Interaction.
 
-My research interest is stochastic analysis. Recently I work on topics around fractional Brownian motions.  
+My research field is stochastic analysis.
+Especially I am interested in studying problems where classical martingale or Markov arguments fail to apply.
+My current projects are related to Gaussian stochastic calculus, and more details can be found [here](/assets/2022-23-research-plan.pdf).
+
 I am very fortunate to be supervised by [Nicolas Perkowski](https://www.mi.fu-berlin.de/math/groups/stoch/members/Professors/perkowski.html).
 
 I am visiting Oxford from 24.09.2022 to 08.03.2023, hosted by [Rama Cont](https://www.maths.ox.ac.uk/people/rama.cont).
