@@ -19,18 +19,28 @@ You can also make your own customization by modifying json files.
 To change the general setting, go to `Code > Preferences > Settings` or open settings.json file (type <kbd>&#8984;</kbd> + <kbd>SHIFT</kbd> + <kbd>P</kbd> (for Mac) and enter 'settings.json'). For me, the settings.json file is as follows.
 
 >{
-    "workbench.colorTheme": "Quiet Light",
-    "editor.minimap.enabled": false,
-    "latex-workshop.intellisense.citation.backend": "biblatex",
-    "git.autofetch": true,
-    "editor.tabCompletion": "onlySnippets",
-    "explorer.excludeGitIgnore": true,
-    "editor.fontSize": 14
+>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"workbench.colorTheme": "Quiet Light",
+>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"editor.minimap.enabled": false,
+>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"latex-workshop.intellisense.citation.backend": "biblatex",
+>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"git.autofetch": true,
+>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"editor.tabCompletion": "onlySnippets",
+>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"explorer.excludeGitIgnore": true,
+>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"editor.fontSize": 14
+>
 >}
 
 There are json files specific to some file types. For instance, if you want to define snippets for .tex files, you should modify latex.json (go to `Code > Preferences > Configure User Snippets` and find or create 'latex.json'). [My latex.json](/assets/2022_12_18/latex.json) file is quite long due to many snippets, which are inspired by TeXmacs. In the long run, defining snippets increases efficiency. Let's say that you want to type the following.
 >\begin{align*}
+>
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\alpha = \int_s^t \mathcal{A}(x) \mathrm{d} x.
+>
 >\end{align*}
 
 With my latex.json, you can just type <kbd>eq</kbd> + <kbd>TAB</kbd> + <kbd>*</kbd> + <kbd>TAB</kbd> + <kbd>a</kbd> + <kbd>TAB</kbd> + <kbd> = \int_s^t</kbd> + <kbd>cA</kbd> + <kbd>TAB</kbd> + <kbd>(x)</kbd> + <kbd>rd</kbd> + <kbd>TAB</kbd> + <kbd>x.</kbd>. See Fig 2.
