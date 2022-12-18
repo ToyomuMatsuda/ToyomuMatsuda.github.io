@@ -3,3 +3,7 @@ $text-color:            #000000;
 $background-color:      #fdf9ee;
 $base-font-size:   20px;
 $content-width:    1000px;
+
+figcaption {
+  font-size: $base-font-size;
+}
