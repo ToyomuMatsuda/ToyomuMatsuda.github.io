@@ -1,0 +1,1157 @@
+{
+	"alpha": {
+		"prefix": "a",
+		"body": "\\\\alpha",
+		"description": "alpha"
+	},
+	"beta": {
+		"prefix": "b",
+		"body": "\\\\beta",
+		"description": "beta"
+	},
+	"gamma": {
+		"prefix": "g",
+		"body": "\\\\gamma",
+		"description": "gamma"
+	},
+	"delta": {
+		"prefix": "d",
+		"body": "\\\\delta",
+		"description": "delta"
+	},
+	"epsilon": {
+		"prefix": "e",
+		"body": "\\\\epsilon",
+		"description": "epsilon"
+	},
+	"zeta": {
+		"prefix": "z",
+		"body": "\\\\zeta",
+		"description": "zeta"
+	},
+	"eta": {
+		"prefix": "h",
+		"body": "\\\\eta",
+		"description": "eta"
+	},
+	"theta": {
+		"prefix": "j",
+		"body": "\\\\theta",
+		"description": "theta"
+	},
+	"iota": {
+		"prefix": "i",
+		"body": "\\\\iota",
+		"description": "iota"
+	},
+	"kappa": {
+		"prefix": "k",
+		"body": "\\\\kappa",
+		"description": "kappa"
+	},
+	"lambda": {
+		"prefix": "l",
+		"body": "\\\\lambda",
+		"description": "lambda"
+	},
+	"mu": {
+		"prefix": "m",
+		"body": "\\\\mu",
+		"description": "mu"
+	},
+	"nu": {
+		"prefix": "n",
+		"body": "\\\\nu",
+		"description": "nu"
+	},
+	"xi": {
+		"prefix": "x",
+		"body": "\\\\xi",
+		"description": "xi"
+	},
+	"pi": {
+		"prefix": "p",
+		"body": "\\\\pi",
+		"description": "pi"
+	},
+	"rho": {
+		"prefix": "r",
+		"body": "\\\\rho",
+		"description": "rho"
+	},
+	"sigma": {
+		"prefix": "s",
+		"body": "\\\\sigma",
+		"description": "sigma"
+	},
+	"tau": {
+		"prefix": "t",
+		"body": "\\\\tau",
+		"description": "tau"
+	},
+	"phi": {
+		"prefix": "f",
+		"body": "\\\\phi",
+		"description": "phi"
+	},
+	"chi": {
+		"prefix": "c",
+		"body": "\\\\chi",
+		"description": "chi"
+	},
+	"psi": {
+		"prefix": "y",
+		"body": "\\\\psi",
+		"description": "psi"
+	},
+	"omega": {
+		"prefix": "w",
+		"body": "\\\\omega",
+		"description": "omega"
+	},
+	"Alpha": {
+		"prefix": "A",
+		"body": "\\\\Alpha",
+		"description": "Alpha"
+	},
+	"Beta": {
+		"prefix": "B",
+		"body": "\\\\Beta",
+		"description": "Beta"
+	},
+	"Gamma": {
+		"prefix": "G",
+		"body": "\\\\Gamma",
+		"description": "Gamma"
+	},
+	"Delta": {
+		"prefix": "D",
+		"body": "\\\\Delta",
+		"description": "Delta"
+	},
+	"Epsilon": {
+		"prefix": "E",
+		"body": "\\\\Epsilon",
+		"description": "Epsilon"
+	},
+	"Zeta": {
+		"prefix": "Z",
+		"body": "\\\\Zeta",
+		"description": "Zeta"
+	},
+	"Eta": {
+		"prefix": "H",
+		"body": "\\\\Eta",
+		"description": "Eta"
+	},
+	"Theta": {
+		"prefix": "J",
+		"body": "\\\\Theta",
+		"description": "Theta"
+	},
+	"Iota": {
+		"prefix": "I",
+		"body": "\\\\Iota",
+		"description": "Iota"
+	},
+	"Kappa": {
+		"prefix": "K",
+		"body": "\\\\Kappa",
+		"description": "Kappa"
+	},
+	"Lambda": {
+		"prefix": "L",
+		"body": "\\\\Lambda",
+		"description": "Lambda"
+	},
+	"Mu": {
+		"prefix": "M",
+		"body": "\\\\Mu",
+		"description": "Mu"
+	},
+	"Nu": {
+		"prefix": "N",
+		"body": "\\\\Nu",
+		"description": "Nu"
+	},
+	"Xi": {
+		"prefix": "X",
+		"body": "\\\\Xi",
+		"description": "Xi"
+	},
+	"Pi": {
+		"prefix": "P",
+		"body": "\\\\Pi",
+		"description": "Pi"
+	},
+	"Rho": {
+		"prefix": "R",
+		"body": "\\\\Rho",
+		"description": "Rho"
+	},
+	"Sigma": {
+		"prefix": "S",
+		"body": "\\\\Sigma",
+		"description": "Sigma"
+	},
+	"Tau": {
+		"prefix": "T",
+		"body": "\\\\Tau",
+		"description": "Tau"
+	},
+	"Phi": {
+		"prefix": "F",
+		"body": "\\\\Phi",
+		"description": "Phi"
+	},
+	"Chi": {
+		"prefix": "C",
+		"body": "\\\\Chi",
+		"description": "Chi"
+	},
+	"Psi": {
+		"prefix": "Y",
+		"body": "\\\\Psi",
+		"description": "Psi"
+	},
+	"Omega": {
+		"prefix": "W",
+		"body": "\\\\Omega",
+		"description": "Omega"
+	},
+	"AA": {
+		"prefix": "AA",
+		"body": "\\\\mathbb{A}",
+		"description": "AA"
+	},
+	"BB": {
+		"prefix": "BB",
+		"body": "\\\\mathbb{B}",
+		"description": "BB"
+	},
+	"CC": {
+		"prefix": "CC",
+		"body": "\\\\mathbb{C}",
+		"description": "CC"
+	},
+	"DD": {
+		"prefix": "DD",
+		"body": "\\\\mathbb{D}",
+		"description": "DD"
+	},
+	"EE": {
+		"prefix": "EE",
+		"body": "\\\\mathbb{E}",
+		"description": "EE"
+	},
+	"FF": {
+		"prefix": "FF",
+		"body": "\\\\mathbb{F}",
+		"description": "FF"
+	},
+	"GG": {
+		"prefix": "GG",
+		"body": "\\\\mathbb{G}",
+		"description": "GG"
+	},
+	"HH": {
+		"prefix": "HH",
+		"body": "\\\\mathbb{H}",
+		"description": "HH"
+	},
+	"II": {
+		"prefix": "II",
+		"body": "\\\\mathbb{I}",
+		"description": "II"
+	},
+	"JJ": {
+		"prefix": "JJ",
+		"body": "\\\\mathbb{J}",
+		"description": "JJ"
+	},
+	"KK": {
+		"prefix": "KK",
+		"body": "\\\\mathbb{K}",
+		"description": "KK"
+	},
+	"LL": {
+		"prefix": "LL",
+		"body": "\\\\mathbb{L}",
+		"description": "LL"
+	},
+	"MM": {
+		"prefix": "MM",
+		"body": "\\\\mathbb{M}",
+		"description": "MM"
+	},
+	"NN": {
+		"prefix": "NN",
+		"body": "\\\\mathbb{N}",
+		"description": "NN"
+	},
+	"OO": {
+		"prefix": "OO",
+		"body": "\\\\mathbb{O}",
+		"description": "OO"
+	},
+	"PP": {
+		"prefix": "PP",
+		"body": "\\\\mathbb{P}",
+		"description": "PP"
+	},
+	"QQ": {
+		"prefix": "QQ",
+		"body": "\\\\mathbb{Q}",
+		"description": "QQ"
+	},
+	"RR": {
+		"prefix": "RR",
+		"body": "\\\\mathbb{R}",
+		"description": "RR"
+	},
+	"SS": {
+		"prefix": "SS",
+		"body": "\\\\mathbb{S}",
+		"description": "SS"
+	},
+	"TT": {
+		"prefix": "TT",
+		"body": "\\\\mathbb{T}",
+		"description": "TT"
+	},
+	"UU": {
+		"prefix": "UU",
+		"body": "\\\\mathbb{U}",
+		"description": "UU"
+	},
+	"VV": {
+		"prefix": "VV",
+		"body": "\\\\mathbb{V}",
+		"description": "VV"
+	},
+	"WW": {
+		"prefix": "WW",
+		"body": "\\\\mathbb{W}",
+		"description": "WW"
+	},
+	"XX": {
+		"prefix": "XX",
+		"body": "\\\\mathbb{X}",
+		"description": "XX"
+	},
+	"YY": {
+		"prefix": "YY",
+		"body": "\\\\mathbb{Y}",
+		"description": "YY"
+	},
+	"ZZ": {
+		"prefix": "ZZ",
+		"body": "\\\\mathbb{Z}",
+		"description": "ZZ"
+	},
+	"cA": {
+		"prefix": "cA",
+		"body": "\\\\mathcal{A}",
+		"description": "cA"
+	},
+	"cB": {
+		"prefix": "cB",
+		"body": "\\\\mathcal{B}",
+		"description": "cB"
+	},
+	"cC": {
+		"prefix": "cC",
+		"body": "\\\\mathcal{C}",
+		"description": "cC"
+	},
+	"cD": {
+		"prefix": "cD",
+		"body": "\\\\mathcal{D}",
+		"description": "cD"
+	},
+	"cE": {
+		"prefix": "cE",
+		"body": "\\\\mathcal{E}",
+		"description": "cE"
+	},
+	"cF": {
+		"prefix": "cF",
+		"body": "\\\\mathcal{F}",
+		"description": "cF"
+	},
+	"cG": {
+		"prefix": "cG",
+		"body": "\\\\mathcal{G}",
+		"description": "cG"
+	},
+	"cH": {
+		"prefix": "cH",
+		"body": "\\\\mathcal{H}",
+		"description": "cH"
+	},
+	"cI": {
+		"prefix": "cI",
+		"body": "\\\\mathcal{I}",
+		"description": "cI"
+	},
+	"cJ": {
+		"prefix": "cJ",
+		"body": "\\\\mathcal{J}",
+		"description": "cJ"
+	},
+	"cK": {
+		"prefix": "cK",
+		"body": "\\\\mathcal{K}",
+		"description": "cK"
+	},
+	"cL": {
+		"prefix": "cL",
+		"body": "\\\\mathcal{L}",
+		"description": "cL"
+	},
+	"cM": {
+		"prefix": "cM",
+		"body": "\\\\mathcal{M}",
+		"description": "cM"
+	},
+	"cN": {
+		"prefix": "cN",
+		"body": "\\\\mathcal{N}",
+		"description": "cN"
+	},
+	"cO": {
+		"prefix": "cO",
+		"body": "\\\\mathcal{O}",
+		"description": "cO"
+	},
+	"cP": {
+		"prefix": "cP",
+		"body": "\\\\mathcal{P}",
+		"description": "cP"
+	},
+	"cQ": {
+		"prefix": "cQ",
+		"body": "\\\\mathcal{Q}",
+		"description": "cQ"
+	},
+	"cR": {
+		"prefix": "cR",
+		"body": "\\\\mathcal{R}",
+		"description": "cR"
+	},
+	"cS": {
+		"prefix": "cS",
+		"body": "\\\\mathcal{S}",
+		"description": "cS"
+	},
+	"cT": {
+		"prefix": "cT",
+		"body": "\\\\mathcal{T}",
+		"description": "cT"
+	},
+	"cU": {
+		"prefix": "cU",
+		"body": "\\\\mathcal{U}",
+		"description": "cU"
+	},
+	"cV": {
+		"prefix": "cV",
+		"body": "\\\\mathcal{V}",
+		"description": "cV"
+	},
+	"cW": {
+		"prefix": "cW",
+		"body": "\\\\mathcal{W}",
+		"description": "cW"
+	},
+	"cX": {
+		"prefix": "cX",
+		"body": "\\\\mathcal{X}",
+		"description": "cX"
+	},
+	"cY": {
+		"prefix": "cY",
+		"body": "\\\\mathcal{Y}",
+		"description": "cY"
+	},
+	"cZ": {
+		"prefix": "cZ",
+		"body": "\\\\mathcal{Z}",
+		"description": "cZ"
+	},
+	"ra": {
+		"prefix": "ra",
+		"body": "\\\\mathrm{a}",
+		"description": "ra"
+	},
+	"rb": {
+		"prefix": "rb",
+		"body": "\\\\mathrm{b}",
+		"description": "rb"
+	},
+	"rc": {
+		"prefix": "rc",
+		"body": "\\\\mathrm{c}",
+		"description": "rc"
+	},
+	"rd": {
+		"prefix": "rd",
+		"body": "\\\\mathrm{d}",
+		"description": "rd"
+	},
+	"re": {
+		"prefix": "re",
+		"body": "\\\\mathrm{e}",
+		"description": "re"
+	},
+	"rf": {
+		"prefix": "rf",
+		"body": "\\\\mathrm{f}",
+		"description": "rf"
+	},
+	"rg": {
+		"prefix": "rg",
+		"body": "\\\\mathrm{g}",
+		"description": "rg"
+	},
+	"rh": {
+		"prefix": "rh",
+		"body": "\\\\mathrm{h}",
+		"description": "rh"
+	},
+	"ri": {
+		"prefix": "ri",
+		"body": "\\\\mathrm{i}",
+		"description": "ri"
+	},
+	"rj": {
+		"prefix": "rj",
+		"body": "\\\\mathrm{j}",
+		"description": "rj"
+	},
+	"rk": {
+		"prefix": "rk",
+		"body": "\\\\mathrm{k}",
+		"description": "rk"
+	},
+	"rl": {
+		"prefix": "rl",
+		"body": "\\\\mathrm{l}",
+		"description": "rl"
+	},
+	"rm": {
+		"prefix": "rm",
+		"body": "\\\\mathrm{m}",
+		"description": "rm"
+	},
+	"rn": {
+		"prefix": "rn",
+		"body": "\\\\mathrm{n}",
+		"description": "rn"
+	},
+	"ro": {
+		"prefix": "ro",
+		"body": "\\\\mathrm{o}",
+		"description": "ro"
+	},
+	"rp": {
+		"prefix": "rp",
+		"body": "\\\\mathrm{p}",
+		"description": "rp"
+	},
+	"rq": {
+		"prefix": "rq",
+		"body": "\\\\mathrm{q}",
+		"description": "rq"
+	},
+	"rr": {
+		"prefix": "rr",
+		"body": "\\\\mathrm{r}",
+		"description": "rr"
+	},
+	"rs": {
+		"prefix": "rs",
+		"body": "\\\\mathrm{s}",
+		"description": "rs"
+	},
+	"rt": {
+		"prefix": "rt",
+		"body": "\\\\mathrm{t}",
+		"description": "rt"
+	},
+	"ru": {
+		"prefix": "ru",
+		"body": "\\\\mathrm{u}",
+		"description": "ru"
+	},
+	"rv": {
+		"prefix": "rv",
+		"body": "\\\\mathrm{v}",
+		"description": "rv"
+	},
+	"rw": {
+		"prefix": "rw",
+		"body": "\\\\mathrm{w}",
+		"description": "rw"
+	},
+	"rx": {
+		"prefix": "rx",
+		"body": "\\\\mathrm{x}",
+		"description": "rx"
+	},
+	"ry": {
+		"prefix": "ry",
+		"body": "\\\\mathrm{y}",
+		"description": "ry"
+	},
+	"rz": {
+		"prefix": "rz",
+		"body": "\\\\mathrm{z}",
+		"description": "rz"
+	},
+	"rA": {
+		"prefix": "rA",
+		"body": "\\\\mathrm{A}",
+		"description": "rA"
+	},
+	"rB": {
+		"prefix": "rB",
+		"body": "\\\\mathrm{B}",
+		"description": "rB"
+	},
+	"rC": {
+		"prefix": "rC",
+		"body": "\\\\mathrm{C}",
+		"description": "rC"
+	},
+	"rD": {
+		"prefix": "rD",
+		"body": "\\\\mathrm{D}",
+		"description": "rD"
+	},
+	"rE": {
+		"prefix": "rE",
+		"body": "\\\\mathrm{E}",
+		"description": "rE"
+	},
+	"rF": {
+		"prefix": "rF",
+		"body": "\\\\mathrm{F}",
+		"description": "rF"
+	},
+	"rG": {
+		"prefix": "rG",
+		"body": "\\\\mathrm{G}",
+		"description": "rG"
+	},
+	"rH": {
+		"prefix": "rH",
+		"body": "\\\\mathrm{H}",
+		"description": "rH"
+	},
+	"rI": {
+		"prefix": "rI",
+		"body": "\\\\mathrm{I}",
+		"description": "rI"
+	},
+	"rJ": {
+		"prefix": "rJ",
+		"body": "\\\\mathrm{J}",
+		"description": "rJ"
+	},
+	"rK": {
+		"prefix": "rK",
+		"body": "\\\\mathrm{K}",
+		"description": "rK"
+	},
+	"rL": {
+		"prefix": "rL",
+		"body": "\\\\mathrm{L}",
+		"description": "rL"
+	},
+	"rM": {
+		"prefix": "rM",
+		"body": "\\\\mathrm{M}",
+		"description": "rM"
+	},
+	"rN": {
+		"prefix": "rN",
+		"body": "\\\\mathrm{N}",
+		"description": "rN"
+	},
+	"rO": {
+		"prefix": "rO",
+		"body": "\\\\mathrm{O}",
+		"description": "rO"
+	},
+	"rP": {
+		"prefix": "rP",
+		"body": "\\\\mathrm{P}",
+		"description": "rP"
+	},
+	"rQ": {
+		"prefix": "rQ",
+		"body": "\\\\mathrm{Q}",
+		"description": "rQ"
+	},
+	"rR": {
+		"prefix": "rR",
+		"body": "\\\\mathrm{R}",
+		"description": "rR"
+	},
+	"rS": {
+		"prefix": "rS",
+		"body": "\\\\mathrm{S}",
+		"description": "rS"
+	},
+	"rT": {
+		"prefix": "rT",
+		"body": "\\\\mathrm{T}",
+		"description": "rT"
+	},
+	"rU": {
+		"prefix": "rU",
+		"body": "\\\\mathrm{U}",
+		"description": "rU"
+	},
+	"rV": {
+		"prefix": "rV",
+		"body": "\\\\mathrm{V}",
+		"description": "rV"
+	},
+	"rW": {
+		"prefix": "rW",
+		"body": "\\\\mathrm{W}",
+		"description": "rW"
+	},
+	"rX": {
+		"prefix": "rX",
+		"body": "\\\\mathrm{X}",
+		"description": "rX"
+	},
+	"rY": {
+		"prefix": "rY",
+		"body": "\\\\mathrm{Y}",
+		"description": "rY"
+	},
+	"rZ": {
+		"prefix": "rZ",
+		"body": "\\\\mathrm{Z}",
+		"description": "rZ"
+	},
+	"fa": {
+		"prefix": "fa",
+		"body": "\\\\mathfrak{a}",
+		"description": "fa"
+	},
+	"fb": {
+		"prefix": "fb",
+		"body": "\\\\mathfrak{b}",
+		"description": "fb"
+	},
+	"fc": {
+		"prefix": "fc",
+		"body": "\\\\mathfrak{c}",
+		"description": "fc"
+	},
+	"fd": {
+		"prefix": "fd",
+		"body": "\\\\mathfrak{d}",
+		"description": "fd"
+	},
+	"fe": {
+		"prefix": "fe",
+		"body": "\\\\mathfrak{e}",
+		"description": "fe"
+	},
+	"ff": {
+		"prefix": "ff",
+		"body": "\\\\mathfrak{f}",
+		"description": "ff"
+	},
+	"fg": {
+		"prefix": "fg",
+		"body": "\\\\mathfrak{g}",
+		"description": "fg"
+	},
+	"fh": {
+		"prefix": "fh",
+		"body": "\\\\mathfrak{h}",
+		"description": "fh"
+	},
+	"fi": {
+		"prefix": "fi",
+		"body": "\\\\mathfrak{i}",
+		"description": "fi"
+	},
+	"fj": {
+		"prefix": "fj",
+		"body": "\\\\mathfrak{j}",
+		"description": "fj"
+	},
+	"fk": {
+		"prefix": "fk",
+		"body": "\\\\mathfrak{k}",
+		"description": "fk"
+	},
+	"fl": {
+		"prefix": "fl",
+		"body": "\\\\mathfrak{l}",
+		"description": "fl"
+	},
+	"fm": {
+		"prefix": "fm",
+		"body": "\\\\mathfrak{m}",
+		"description": "fm"
+	},
+	"fn": {
+		"prefix": "fn",
+		"body": "\\\\mathfrak{n}",
+		"description": "fn"
+	},
+	"fo": {
+		"prefix": "fo",
+		"body": "\\\\mathfrak{o}",
+		"description": "fo"
+	},
+	"fp": {
+		"prefix": "fp",
+		"body": "\\\\mathfrak{p}",
+		"description": "fp"
+	},
+	"fq": {
+		"prefix": "fq",
+		"body": "\\\\mathfrak{q}",
+		"description": "fq"
+	},
+	"fr": {
+		"prefix": "fr",
+		"body": "\\\\mathfrak{r}",
+		"description": "fr"
+	},
+	"fs": {
+		"prefix": "fs",
+		"body": "\\\\mathfrak{s}",
+		"description": "fs"
+	},
+	"ft": {
+		"prefix": "ft",
+		"body": "\\\\mathfrak{t}",
+		"description": "ft"
+	},
+	"fu": {
+		"prefix": "fu",
+		"body": "\\\\mathfrak{u}",
+		"description": "fu"
+	},
+	"fv": {
+		"prefix": "fv",
+		"body": "\\\\mathfrak{v}",
+		"description": "fv"
+	},
+	"fw": {
+		"prefix": "fw",
+		"body": "\\\\mathfrak{w}",
+		"description": "fw"
+	},
+	"fx": {
+		"prefix": "fx",
+		"body": "\\\\mathfrak{x}",
+		"description": "fx"
+	},
+	"fy": {
+		"prefix": "fy",
+		"body": "\\\\mathfrak{y}",
+		"description": "fy"
+	},
+	"fz": {
+		"prefix": "fz",
+		"body": "\\\\mathfrak{z}",
+		"description": "fz"
+	},
+	"fA": {
+		"prefix": "fA",
+		"body": "\\\\mathfrak{A}",
+		"description": "fA"
+	},
+	"fB": {
+		"prefix": "fB",
+		"body": "\\\\mathfrak{B}",
+		"description": "fB"
+	},
+	"fC": {
+		"prefix": "fC",
+		"body": "\\\\mathfrak{C}",
+		"description": "fC"
+	},
+	"fD": {
+		"prefix": "fD",
+		"body": "\\\\mathfrak{D}",
+		"description": "fD"
+	},
+	"fE": {
+		"prefix": "fE",
+		"body": "\\\\mathfrak{E}",
+		"description": "fE"
+	},
+	"fF": {
+		"prefix": "fF",
+		"body": "\\\\mathfrak{F}",
+		"description": "fF"
+	},
+	"fG": {
+		"prefix": "fG",
+		"body": "\\\\mathfrak{G}",
+		"description": "fG"
+	},
+	"fH": {
+		"prefix": "fH",
+		"body": "\\\\mathfrak{H}",
+		"description": "fH"
+	},
+	"fI": {
+		"prefix": "fI",
+		"body": "\\\\mathfrak{I}",
+		"description": "fI"
+	},
+	"fJ": {
+		"prefix": "fJ",
+		"body": "\\\\mathfrak{J}",
+		"description": "fJ"
+	},
+	"fK": {
+		"prefix": "fK",
+		"body": "\\\\mathfrak{K}",
+		"description": "fK"
+	},
+	"fL": {
+		"prefix": "fL",
+		"body": "\\\\mathfrak{L}",
+		"description": "fL"
+	},
+	"fM": {
+		"prefix": "fM",
+		"body": "\\\\mathfrak{M}",
+		"description": "fM"
+	},
+	"fN": {
+		"prefix": "fN",
+		"body": "\\\\mathfrak{N}",
+		"description": "fN"
+	},
+	"fO": {
+		"prefix": "fO",
+		"body": "\\\\mathfrak{O}",
+		"description": "fO"
+	},
+	"fP": {
+		"prefix": "fP",
+		"body": "\\\\mathfrak{P}",
+		"description": "fP"
+	},
+	"fQ": {
+		"prefix": "fQ",
+		"body": "\\\\mathfrak{Q}",
+		"description": "fQ"
+	},
+	"fR": {
+		"prefix": "fR",
+		"body": "\\\\mathfrak{R}",
+		"description": "fR"
+	},
+	"fS": {
+		"prefix": "fS",
+		"body": "\\\\mathfrak{S}",
+		"description": "fS"
+	},
+	"fT": {
+		"prefix": "fT",
+		"body": "\\\\mathfrak{T}",
+		"description": "fT"
+	},
+	"fU": {
+		"prefix": "fU",
+		"body": "\\\\mathfrak{U}",
+		"description": "fU"
+	},
+	"fV": {
+		"prefix": "fV",
+		"body": "\\\\mathfrak{V}",
+		"description": "fV"
+	},
+	"fW": {
+		"prefix": "fW",
+		"body": "\\\\mathfrak{W}",
+		"description": "fW"
+	},
+	"fX": {
+		"prefix": "fX",
+		"body": "\\\\mathfrak{X}",
+		"description": "fX"
+	},
+	"fY": {
+		"prefix": "fY",
+		"body": "\\\\mathfrak{Y}",
+		"description": "fY"
+	},
+	"fZ": {
+		"prefix": "fZ",
+		"body": "\\\\mathfrak{Z}",
+		"description": "fZ"
+	},
+	"sA": {
+		"prefix": "sA",
+		"body": "\\\\mathscr{A}",
+		"description": "sA"
+	},
+	"sB": {
+		"prefix": "sB",
+		"body": "\\\\mathscr{B}",
+		"description": "sB"
+	},
+	"sC": {
+		"prefix": "sC",
+		"body": "\\\\mathscr{C}",
+		"description": "sC"
+	},
+	"sD": {
+		"prefix": "sD",
+		"body": "\\\\mathscr{D}",
+		"description": "sD"
+	},
+	"sE": {
+		"prefix": "sE",
+		"body": "\\\\mathscr{E}",
+		"description": "sE"
+	},
+	"sF": {
+		"prefix": "sF",
+		"body": "\\\\mathscr{F}",
+		"description": "sF"
+	},
+	"sG": {
+		"prefix": "sG",
+		"body": "\\\\mathscr{G}",
+		"description": "sG"
+	},
+	"sH": {
+		"prefix": "sH",
+		"body": "\\\\mathscr{H}",
+		"description": "sH"
+	},
+	"sI": {
+		"prefix": "sI",
+		"body": "\\\\mathscr{I}",
+		"description": "sI"
+	},
+	"sJ": {
+		"prefix": "sJ",
+		"body": "\\\\mathscr{J}",
+		"description": "sJ"
+	},
+	"sK": {
+		"prefix": "sK",
+		"body": "\\\\mathscr{K}",
+		"description": "sK"
+	},
+	"sL": {
+		"prefix": "sL",
+		"body": "\\\\mathscr{L}",
+		"description": "sL"
+	},
+	"sM": {
+		"prefix": "sM",
+		"body": "\\\\mathscr{M}",
+		"description": "sM"
+	},
+	"sN": {
+		"prefix": "sN",
+		"body": "\\\\mathscr{N}",
+		"description": "sN"
+	},
+	"sO": {
+		"prefix": "sO",
+		"body": "\\\\mathscr{O}",
+		"description": "sO"
+	},
+	"sP": {
+		"prefix": "sP",
+		"body": "\\\\mathscr{P}",
+		"description": "sP"
+	},
+	"sQ": {
+		"prefix": "sQ",
+		"body": "\\\\mathscr{Q}",
+		"description": "sQ"
+	},
+	"sR": {
+		"prefix": "sR",
+		"body": "\\\\mathscr{R}",
+		"description": "sR"
+	},
+	"sS": {
+		"prefix": "sS",
+		"body": "\\\\mathscr{S}",
+		"description": "sS"
+	},
+	"sT": {
+		"prefix": "sT",
+		"body": "\\\\mathscr{T}",
+		"description": "sT"
+	},
+	"sU": {
+		"prefix": "sU",
+		"body": "\\\\mathscr{U}",
+		"description": "sU"
+	},
+	"sV": {
+		"prefix": "sV",
+		"body": "\\\\mathscr{V}",
+		"description": "sV"
+	},
+	"sW": {
+		"prefix": "sW",
+		"body": "\\\\mathscr{W}",
+		"description": "sW"
+	},
+	"sX": {
+		"prefix": "sX",
+		"body": "\\\\mathscr{X}",
+		"description": "sX"
+	},
+	"sY": {
+		"prefix": "sY",
+		"body": "\\\\mathscr{Y}",
+		"description": "sY"
+	},
+	"sZ": {
+		"prefix": "sZ",
+		"body": "\\\\mathscr{Z}",
+		"description": "sZ"
+	},
+	"equation": {
+		"prefix": "eq",
+		"body": "\\\\begin{align$1}\n  $0\n\\\\end{align$1}\n",
+		"description": "equation"
+	},
+	"align": {
+		"prefix": "align",
+		"body": "\\\\begin{align$1}\n  $2\n\\\\end{align$1}",
+		"description": "align"
+	},
+	"multline": {
+		"prefix": "mult",
+		"body": "\\\\begin{multline$1}\n  $0\n\\\\end{multline$1}\n",
+		"description": "multline"
+	},
+	"doublebracket": {
+		"prefix": "bb",
+		"body": "\\\\llbracket $1 \\\\rrbracket $2",
+		"description": "doublebracket"
+	},
+	"document": {
+		"prefix": "document",
+		"body": "\\\\documentclass[12pt]{article}\n\\\\usepackage{$1} %%% no .sty extension\n\\\\usepackage[a4paper,bindingoffset=0.2in,\n            left=1in,right=1in,\n            top=1in,bottom=1in,\n            footskip=0.4in]{geometry}\n%%%%For biber %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n\\\\usepackage[style=numeric, backend=biber, doi=false, url=false, isbn=false, maxbibnames=99,\nuniquename=false, giveninits]{biblatex}\n\\\\AtEveryBibitem{\\\\clearlist{language}}\n\\\\addbibresource{$2.bib}\n\\\\renewcommand*{\\\\bibfont}{\\\\small}\n\\\\renewbibmacro{in:}{%\n  \\\\ifentrytype{article}{}{\\\\printtext{\\\\bibstring{in}\\\\intitlepunct}}}\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n\\\\newcommand*{\\\\TitleFont}{%\n      \\\\usefont{\\\\encodingdefault}{\\\\rmdefault}{b}{n}%\n      \\\\fontsize{16}{20}%\n      \\\\selectfont}\n\\\\title{\\\\TitleFont $3 }\n\\\\author{$4}\n\\\\date{$5}\n\n\\\\begin{document}\n\\\\maketitle\n$6\n\\\\printbibliography\n\\\\end{document}",
+		"description": "document"
+	}
+}

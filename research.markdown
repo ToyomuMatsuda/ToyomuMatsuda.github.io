@@ -5,7 +5,7 @@
 layout: page
 title: Research
 ---
-Information on talks, including slides, are available [here](https://docs.google.com/spreadsheets/d/1Hq3xC7zkISbYOwTR03Kgfj2qLucA5ffEd2mheP6sg2M/edit#gid=0)
+Information on talks, including slides, are available [here](https://docs.google.com/spreadsheets/d/1Hq3xC7zkISbYOwTR03Kgfj2qLucA5ffEd2mheP6sg2M/edit#gid=0).
 
 ## Submitted
 1. [Anderson Hamiltonians with singular potentials](https://arxiv.org/abs/2211.01199), with Willem van Zuijlen, 2022.
