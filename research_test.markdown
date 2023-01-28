@@ -5,10 +5,7 @@
 layout: page
 title: Research
 ---
-<link rel="stylesheet" href="/assets/css/academicons.min.css"/>
 Information on talks, including slides, are available [here](https://docs.google.com/spreadsheets/d/1Hq3xC7zkISbYOwTR03Kgfj2qLucA5ffEd2mheP6sg2M/edit#gid=0).
-
-<i class="ai ai-arxiv-square ai-3x"></i>[Arxiv](https://arxiv.org/a/matsuda_t_1.html),  <i class="ai ai-orcid-square ai-3x"></i>[Orcid](https://orcid.org/0000-0002-2422-0863), <i class="ai ai-google-scholar-square ai-3x"></i>google scholar(to be added).
 
 
 ## Preprints
@@ -17,7 +14,7 @@ Information on talks, including slides, are available [here](https://docs.google
 
 ## Accepted
 1 papers accepted. Last modified: 28 Jan 2023.
-<h4 id="y2022">2022</h4>
+<h3 id="y2022">2022</h3>
 
 
 <ul>
