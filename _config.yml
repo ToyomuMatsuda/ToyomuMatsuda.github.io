@@ -3,7 +3,7 @@ author:
   name: Toyomu Matsuda
   email: toyomu.matsuda@fu-berlin.de
 description: > # this means to ignore newlines until "show_excerpts:"
-  Research website of Toyomu Matsuda (FU Berlin).
+  
 url: "https://toyomumatsuda.github.io"
 
 show_excerpts: false # set to true to show excerpts on the homepage
