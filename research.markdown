@@ -8,7 +8,7 @@ title: Research
 <link rel="stylesheet" href="/assets/css/academicons/css/academicons.min.css"/>
 Information on talks, including slides, are available [here](https://docs.google.com/spreadsheets/d/1Hq3xC7zkISbYOwTR03Kgfj2qLucA5ffEd2mheP6sg2M/edit#gid=0).
 
-<a href="https://arxiv.org/a/matsuda_t_1.html"><i class="ai ai-arxiv ai-2x"></i></a>  <a href="https://orcid.org/0000-0002-2422-0863"><i class="ai ai-orcid-square ai-2x"></i></a> <a href="https://scholar.google.com/citations?hl=en&user=6YeVU1EAAAAJ&view_op=list_works"><i class="ai ai-google-scholar-square ai-2x"></i></a>
+<a href="https://arxiv.org/a/matsuda_t_1.html"><i class="ai ai-arxiv-square ai-2x"></i></a>  <a href="https://orcid.org/0000-0002-2422-0863"><i class="ai ai-orcid-square ai-2x"></i></a> <a href="https://scholar.google.com/citations?hl=en&user=6YeVU1EAAAAJ&view_op=list_works"><i class="ai ai-google-scholar-square ai-2x"></i></a>
 
 
 ## Preprints
