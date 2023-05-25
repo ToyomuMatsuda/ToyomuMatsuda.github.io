@@ -45,6 +45,28 @@
 
   \;
 
+  \;
+
+  <\wide-tabular>
+    <tformat|<cwith|1|1|1|1|cell-halign|l>|<cwith|1|1|1|1|cell-background|white>|<cwith|2|2|1|1|cell-height|1>|<cwith|2|2|1|1|cell-vmode|exact>|<cwith|2|2|1|1|cell-background|pastel
+    grey>|<table|<row|<\cell>
+      <with|font|Stix|font-base-size|18|<strong|Research interest>>
+    </cell>>|<row|<\cell>
+      \;
+    </cell>>>>
+  </wide-tabular>
+
+  <\itemize-dot>
+    <item>Gaussian stochastic calculus (e.g. study of fractional Brownian
+    motion)
+
+    <item>Disordered systems\ 
+
+    <item>Stochastic (partial) differential equations
+  </itemize-dot>
+
+  \;
+
   <\wide-tabular>
     <tformat|<cwith|1|1|1|1|cell-bsep|1>|<cwith|2|2|1|1|cell-height|1>|<cwith|2|2|1|1|cell-vmode|exact>|<cwith|2|2|1|1|cell-background|pastel
     grey>|<table|<row|<\cell>
@@ -71,11 +93,9 @@
 
     <item><em|Anderson Hamiltonians with singular potentials>, with Willem
     van Zuijlen, 2022.
-
-    <item>(Preprint available upon request.) <em|Regularization by fractional
-    noise for <math|L<rsup|q><rsub|t>L<rsup|p><rsub|x>>-drift>, with Oleg
-    Butkovsky and Khoa Lê, 2023.\ 
   </enumerate-numeric>>
+
+  \;
 
   \;
 
@@ -106,8 +126,8 @@
     </cell>>>>
   </wide-tabular>
 
-  <tabular|<tformat|<cwith|1|1|2|2|cell-hyphen|t>|<twith|table-width|1par>|<twith|table-hmode|exact>|<cwith|1|1|1|-1|font|Stix>|<cwith|1|1|1|-1|font-base-size|12>|<table|<row|<cell|<with|font-base-size|10|Summer,
-  2022> >|<\cell>
+  <tabular|<tformat|<cwith|1|1|2|2|cell-hyphen|t>|<twith|table-width|1par>|<twith|table-hmode|exact>|<cwith|1|1|1|-1|font|Stix>|<cwith|1|1|1|-1|font-base-size|12>|<table|<row|<cell|Summer
+  2022 >|<\cell>
     Probability 2 (discrete-time stochastic processes), tutorials.
   </cell>>>>>
 
