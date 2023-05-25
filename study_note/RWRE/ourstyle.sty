@@ -1,0 +1,76 @@
+\ProvidesPackage{ourstyle}
+\usepackage{verbatim}
+\usepackage[T1]{fontenc}
+\usepackage{newtxtext}
+\usepackage{csquotes}
+\usepackage{microtype} %better documentation
+\usepackage{bm}
+\usepackage[english]{babel}
+\usepackage{amsmath,amssymb,latexsym, amsthm, mathtools, stmaryrd}
+\usepackage{mathrsfs}
+\usepackage[dvipsnames]{xcolor}
+\usepackage[colorlinks=false]{hyperref}
+\hypersetup{
+    colorlinks,
+    linktocpage,
+    linkcolor={blue!80!black},
+    citecolor={blue!80!black},
+    urlcolor={blue!80!black}
+    }
+\urlstyle{same} %keep the url font
+\usepackage[notcite,notref]{showkeys} % for labels
+\usepackage{tikz, pgfplots} % we use tikz picture to draw graphs.
+\usetikzlibrary{calc}
+\usepackage{multicol} %https://tex.stackexchange.com/questions/194426/split-itemize-into-multiple-columns
+\usepackage{upgreek}
+\usepackage{comment} %To hide multiple lines as comment
+\usepackage{epsfig}
+\usepackage{wrapfig} %text rondom fig
+\usepackage{xstring} %if and else
+\usepackage[disable]{todonotes}
+%%% enumerate %%%%%%%%%%%%%%%%%%%
+\usepackage[shortlabels]{enumitem}
+\setenumerate{label={
+ormalfont(\alph*)},topsep=4pt,itemsep=0pt} % Enumerate standaart met (a),(b),...
+%%%%For biber %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[natbib, style=alphabetic, backend=biber, doi=false, isbn=false, maxbibnames=99, sorting=nyt,uniquename=false, giveninits]{biblatex}
+\AtEveryBibitem{\clearlist{language}}
+\renewcommand*{\bibfont}{\small}
+\renewbibmacro{in:}{%
+\ifentrytype{article}{}{\printtext{\bibstring{in}\intitlepunct}}}
+\pgfplotsset{compat=1.18}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\DeclarePairedDelimiter{\norm}{\lVert}{\rVert}
+\DeclarePairedDelimiter{\abs}{\lvert}{\rvert}
+\newcommand{\vertiii}[1]{{\left\vert\kern-0.25ex\left\vert\kern-0.25ex\left\vert #1\right\vert\kern-0.25ex\right\vert\kern-0.25ex\right\vert}} %https://tex.stackexchange.com/questions/54385/spacing-between-triple-vertical-lines
+\DeclarePairedDelimiterX{\inp}[2]{\langle}{\rangle}{#1, #2}
+\DeclarePairedDelimiterX\set[1]\lbrace\rbrace{\def\given{:} #1 }
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%Command%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\def \defby{\vcentcolon =}
+\renewcommand{\epsilon}{\varepsilon}
+\newcommand{\indic}{\mathbf{1}}
+\def \emptyset{\varnothing}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%Function space and operations%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\conv}{\ast}
+\newcommand{\from}{\colon}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% theorem style %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\theoremstyle{plain}
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{corollary}[theorem]{Corollary}
+\theoremstyle{definition}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{notation}[theorem]{Notation}
+\newtheorem{commen}[theorem]{Comment}
+\newtheorem{discussion}[theorem]{Discussion}
+\newtheorem{remark}[theorem]{Remark}
+\newtheorem{remarks}[theorem]{Remarks}
+\newtheorem{example}[theorem]{Example}
+\newtheorem{examples}[theorem]{Examples} % MEERVOUD
+\newtheorem{assumption}[theorem]{Assumption}
+\newtheorem*{assumption*}{Assumption}
+\newtheorem{problem}{Problem}
+\newtheorem{conjecture}[theorem]{Conjecture}
