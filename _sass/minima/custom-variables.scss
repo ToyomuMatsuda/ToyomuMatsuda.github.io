@@ -1,8 +1,8 @@
 // Placeholder to allow overriding predefined variables smoothly.
 $text-color:            #000000;
 $site-title-color:      #000000;
-$background-color:      #fdf9ee;
 $border-color-01:       #aca184;
 $border-color-03:       #aca184;
 $base-font-size:   20px;
 $content-width:    1000px;
+$link-visited-color:    darken($link-base-color, 30%) !default;

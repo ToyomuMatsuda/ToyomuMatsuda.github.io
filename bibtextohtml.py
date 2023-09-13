@@ -226,7 +226,7 @@ newer = years[-1]
 
 # Set the fields to be exported to html (following this order)
 mandatory = ['author', 'title']
-optional = ['journal', 'eprint', 'volume', 'pages', 'year', 'url', 'doi']
+optional = ['journal', 'eprint', 'volume', 'pages', 'year', 'url', 'doi', 'arxiv', 'abstract']
 
 
 # Clean up data
@@ -259,8 +259,12 @@ for y in reversed(range(older, newer + 1)):
                             html += ' <a href="{0}">[html]</a>'.format(d[t])
                         if t == 'doi': 
                             html += ' <a href="http://dx.doi.org/{0}">[doi]</a>'.format(d[t])
+                        if t == 'arxiv': 
+                            html += ' <a href="{0}">[arxiv]</a>'.format(d[t])
+                        if t == 'abstract':
+                            html += '.\n<details><summary>abstract</summary>{0}</details>'.format(d[t])
 
-                html += '.</li>\n'
+                html += '</li>\n'
                 counter += 1
 
         html += '</ul>\n'
