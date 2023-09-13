@@ -5,9 +5,3 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
-
-h1 {
-  font-weight: bold;
-  color: #1B7E48;
-  font-family: cursive;
-}
