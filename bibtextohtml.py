@@ -47,6 +47,7 @@ prints the result to the standard output.
 import sys
 import copy
 from datetime import date
+import re
 
 
 def cleanup_author(s):
@@ -99,6 +100,21 @@ def cleanup_page(s):
 
     return s
 
+def find_matching_brackets(s):
+    stack = []  # Initialize an empty stack to keep track of opening brackets
+    matches = {}  # Use a dictionary to store the positions of matching brackets
+
+    for i, char in enumerate(s):
+        if char == "{":
+            stack.append(i)  # Push the position of an opening bracket onto the stack
+        elif char == "}":
+            if stack:
+                # If there's a matching opening bracket on the stack, pop it and record the match
+                opening_bracket_position = stack.pop()
+                matches[opening_bracket_position] = i
+
+    return matches
+
 
 
 # Get the BibTeX, template, and output file names
@@ -149,9 +165,32 @@ for s in biblist:
     s = s.rpartition('}')[0]
     keylist = ['type = ' + type.lower(), 'id = ' + id]
 
-    # Uncomment for debugging
-    #print(keylist)
-    #print(s)
+    #Uncomment for debugging
+    print(keylist)
+    print(s)
+    print('first done')
+
+    # We separate the string 's', based on ${...}$. 
+    # However, since 'abstract' may contain brackets inside, we need to separate 'abstract'.
+    pattern = r'abstract\s*=\s*'
+
+    # Search for the pattern in the input string
+    match = re.search(pattern, s)
+
+    if match:
+        before_abstract, after_abstract = s[:match.start()], s[match.end():] 
+        brackets = find_matching_brackets(after_abstract)
+        index_fb = min(brackets.keys())
+        index_end = brackets[index_fb]
+        abstract_content=after_abstract[index_fb+1:index_end]
+        keylist.append('abstract = ' + abstract_content)
+        if len(after_abstract[index_end:]) >= 2:
+            #Remove last bracket and the following comma
+            print(after_abstract)
+            s = before_abstract + after_abstract[brackets[index_fb]+2:]
+        else: s = before_abstract[:-1] #last comma removed
+    
+    print(s)
 
     number = 0
     flag = 0
@@ -211,7 +250,8 @@ for d in dictlist_bkp:
 
 
 # Keep only articles in the list
-dictlist = [d for d in dictlist if d['type'] == 'article']
+#dictlist = [d for d in dictlist if d['type'] == 'article']
+#We also want to include preprints
 # keep only articles that have author and title
 dictlist = [d for d in dictlist if 'author' in d and 'title' in d]
 dictlist = [d for d in dictlist if d['author'] != '' and d['title'] != '']
@@ -232,11 +272,13 @@ optional = ['journal', 'eprint', 'volume', 'pages', 'year', 'url', 'doi', 'arxiv
 # Clean up data
 for i in range(len(dictlist)):
     dictlist[i]['author'] = cleanup_author(dictlist[i]['author'])
-    dictlist[i]['title'] = cleanup_title(dictlist[i]['title'])
+    #dictlist[i]['title'] = cleanup_title(dictlist[i]['title'])
+    #Disabled to avoid unnecessary lower case
 
 
 # Write down the list html code
 counter = 0
+accepted_counter = 0
 html = ''
 for y in reversed(range(older, newer + 1)):
     if y in years:
@@ -249,7 +291,7 @@ for y in reversed(range(older, newer + 1)):
                 for t in optional:
                     if t in d:
                         if t == 'journal': html += ', {0}'.format(d[t])
-                        if t == 'eprint': html += ':{0}'.format(d[t])
+                        if t == 'eprint' and d['type'] == 'misc': html += ', arXiv:{0}'.format(d[t])
                         if t == 'volume': html += ' <b>{0}</b>'.format(d[t])
                         if t == 'pages': 
                             a = cleanup_page(d[t])
@@ -266,6 +308,7 @@ for y in reversed(range(older, newer + 1)):
 
                 html += '</li>\n'
                 counter += 1
+                if 'journal' in d: accepted_counter += 1
 
         html += '</ul>\n'
 
@@ -273,6 +316,7 @@ for y in reversed(range(older, newer + 1)):
 # Fill up the empty fields in the template
 a, mark, b = template.partition('<!--LIST_OF_REFERENCES-->')
 a = a.replace('<!--NUMBER_OF_REFERENCES-->', str(counter), 1)
+a = a.replace('<!--NUMBER_OF_ACCEPTED_REFERENCES-->', str(accepted_counter), 1)
 a = a.replace('<!--NEWER-->', str(newer), 1)
 a = a.replace('<!--OLDER-->', str(older), 1)
 now = date.today()

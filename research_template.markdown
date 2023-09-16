@@ -5,20 +5,16 @@
 layout: page
 title: Research
 ---
-Information on talks, including slides, are available [here](https://docs.google.com/spreadsheets/d/1Hq3xC7zkISbYOwTR03Kgfj2qLucA5ffEd2mheP6sg2M/edit#gid=0).
+Information on talks, including slides, is available [here](https://docs.google.com/spreadsheets/d/1Hq3xC7zkISbYOwTR03Kgfj2qLucA5ffEd2mheP6sg2M/edit#gid=0).
 
 <a href="https://arxiv.org/a/matsuda_t_1.html"><i class="ai ai-arxiv-square ai-2x"></i></a>
 <a href="https://orcid.org/0000-0002-2422-0863"><i class="ai ai-orcid-square ai-2x"></i></a>
 <a href="https://scholar.google.com/citations?hl=en&user=6YeVU1EAAAAJ&view_op=list_works"><i class="ai ai-google-scholar-square ai-2x"></i></a>
 
 
-## Preprints
-1. [Level crossings of fractional Brownian motion](https://arxiv.org/abs/2308.08274), with Purba Das, Rafał Łochowski and Nicolas Perkowski, 2023.
-1. [Anderson Hamiltonians with singular potentials](https://arxiv.org/abs/2211.01199), with Willem van Zuijlen, 2022.
-1. [An extension of the stochastic sewing lemma and applications to fractional stochastic calculus](https://arxiv.org/abs/2206.01686), with Nicolas Perkowski, 2022.
 
-## Accepted
-<!--NUMBER_OF_REFERENCES--> papers accepted. Last modified: <!--DATE-->.
+## Preprints and accepted papers 
+<!--NUMBER_OF_REFERENCES--> papers have appeared. (<!--NUMBER_OF_ACCEPTED_REFERENCES--> papers accepted.) Last modified: <!--DATE-->.
 <!--LIST_OF_REFERENCES-->
 
 ## Master's work 
