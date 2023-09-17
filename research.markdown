@@ -4,12 +4,7 @@
 
 layout: page
 title: Research
-mathjax: true
 ---
-<script type="text/javascript"
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
-
 Information on talks, including slides, is available [here](https://docs.google.com/spreadsheets/d/1Hq3xC7zkISbYOwTR03Kgfj2qLucA5ffEd2mheP6sg2M/edit#gid=0).
 
 <a href="https://arxiv.org/a/matsuda_t_1.html"><i class="ai ai-arxiv-square ai-2x"></i></a>
@@ -19,7 +14,7 @@ Information on talks, including slides, is available [here](https://docs.google.
 
 
 ## Preprints and accepted papers 
-4 papers have appeared. (1 papers accepted.) Last modified: 16 Sep 2023.
+4 papers have appeared. (1 papers accepted.) Last modified: 17 Sep 2023.
 <h4 id="y2023">2023</h4>
 
 
@@ -34,7 +29,7 @@ Information on talks, including slides, is available [here](https://docs.google.
 
 <ul>
 <li>Toyomu Matsuda and Nicolas Perkowski, <i>An extension of the stochastic sewing lemma and applications to fractional stochastic calculus</i>, arXiv:2206.01686, 2022 <a href="https://arxiv.org/abs/2206.01686">[arxiv]</a>.
-<details><summary>abstract</summary>We give an extension of Lê's stochastic sewing lemma [Electron. J. Probab. 25: 1 - 55, 2020]. The stochastic sewing lemma proves convergence in Lm of Riemann type sums $\sum_{[s,t] \in \pi} A_{s,t}$ for an adapted two-parameter stochastic process A, under certain conditions on the moments of $A_{s,t}$ and of conditional expectations of $A_{s,t}$ given $\mathcal{F}_s$. Our extension replaces the conditional expectation given $\mathcal{F}_s$ by that given $\mathcal{F}_v$ for $v<s$, and it allows to make use of asymptotic decorrelation properties between $A_{s,t}$ and $\mathcal{F}_v$ by including a singularity in $(s−v)$. We provide three applications for which Lê's stochastic sewing lemma seems to be insufficient.The first is to prove the convergence of Itô or Stratonovich approximations of stochastic integrals along fractional Brownian motions under low regularity assumptions. The second is to obtain new representations of local times of fractional Brownian motions via discretization. The third is to improve a regularity assumption on the diffusion coefficient of a stochastic differential equation driven by a fractional Brownian motion for pathwise uniqueness and strong existence.</details></li>
+<details><summary>abstract</summary>We give an extension of Lê's stochastic sewing lemma [Electron. J. Probab. 25: 1 - 55, 2020]. The stochastic sewing lemma proves convergence in $L_m$ of Riemann type sums $\sum_{[s,t] \in \pi} A_{s,t}$ for an adapted two-parameter stochastic process $A$, under certain conditions on the moments of $A_{s,t}$ and of conditional expectations of $A_{s,t}$ given $\mathcal{F}_s$. Our extension replaces the conditional expectation given $\mathcal{F}_s$ by that given $\mathcal{F}_v$ for $v<s$, and it allows to make use of asymptotic decorrelation properties between $A_{s,t}$ and $\mathcal{F}_v$ by including a singularity in $(s−v)$. We provide three applications for which Lê's stochastic sewing lemma seems to be insufficient.The first is to prove the convergence of Itô or Stratonovich approximations of stochastic integrals along fractional Brownian motions under low regularity assumptions. The second is to obtain new representations of local times of fractional Brownian motions via discretization. The third is to improve a regularity assumption on the diffusion coefficient of a stochastic differential equation driven by a fractional Brownian motion for pathwise uniqueness and strong existence.</details></li>
 <li>Matsuda, Toyomu, <i>Integrated density of states of the Anderson Hamiltonian with two-dimensional white noise</i>, Stochastic Processes and their Applications <b>153</b>, 91-127, 2022 <a href="https://www.sciencedirect.com/science/article/pii/S0304414922001727">[html]</a> <a href="http://dx.doi.org/https://doi.org/10.1016/j.spa.2022.07.007">[doi]</a> <a href="https://arxiv.org/abs/2011.09180">[arxiv]</a>.
 <details><summary>abstract</summary>We construct the integrated density of states of the Anderson Hamiltonian with two-dimensional white noise by proving the convergence of the Dirichlet eigenvalue counting measures associated with the Anderson Hamiltonians on the boxes. We also determine the logarithmic asymptotics of the left tail of the integrated density of states. Furthermore, we apply our result to a moment explosion of the parabolic Anderson model in the plane.</details></li>
 </ul>
