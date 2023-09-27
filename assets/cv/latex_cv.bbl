@@ -1,0 +1,175 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ydnt/global//global/global}
+    \entry{das2023level}{misc}{}
+      \name{author}{4}{}{%
+        {{hash=9df4c823035d1ffb436c588ddf90a734}{%
+           family={Das},
+           familyi={D\bibinitperiod},
+           given={Purba},
+           giveni={P\bibinitperiod}}}%
+        {{hash=5c0ab39be6a618c9cc8cbf59e4ae66ef}{%
+           family={Łochowski},
+           familyi={Ł\bibinitperiod},
+           given={Rafał},
+           giveni={R\bibinitperiod}}}%
+        {{hash=c00954a7b4174ce5ccb292fe6ad9438e}{%
+           family={Matsuda},
+           familyi={M\bibinitperiod},
+           given={Toyomu},
+           giveni={T\bibinitperiod}}}%
+        {{hash=58e4079a8b729c0e164eb5e2dc5dccd8}{%
+           family={Perkowski},
+           familyi={P\bibinitperiod},
+           given={Nicolas},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{ac229472e3ea5129a1fa94bf60e57dda}
+      \strng{fullhash}{995cdd60bf654788d5e852dbccc97f64}
+      \strng{bibnamehash}{995cdd60bf654788d5e852dbccc97f64}
+      \strng{authorbibnamehash}{995cdd60bf654788d5e852dbccc97f64}
+      \strng{authornamehash}{ac229472e3ea5129a1fa94bf60e57dda}
+      \strng{authorfullhash}{995cdd60bf654788d5e852dbccc97f64}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Since the classical work of Lévy, it is known that the local time of Brownian motion can be characterized through the limit of level crossings. While subsequent extensions of this characterization have primarily focused on Markovian or martingale settings, this work presents a highly anticipated extension to fractional Brownian motion -- a prominent non-Markovian and non-martingale process. Our result is viewed as a fractional analogue of Chacon et al. (1981). Consequently, it provides a global path-by-path construction of fractional Brownian local time. Due to the absence of conventional probabilistic tools in the fractional setting, our approach utilizes completely different argument with a flavor of the subadditive ergodic theorem, combined with the shifted stochastic sewing lemma recently obtained in Matsuda and Perkowski (22, arXiv:2206.01686). Furthermore, we prove an almost-sure convergence of the $(1/H)$-th variation of fractional Brownian motion with the Hurst parameter $H$, along random partitions defined by level crossings, called Lebesgue partitions. This result raises an interesting conjecture on the limit, which seems to capture non-Markovian nature of fractional Brownian motion.}
+      \field{eprintclass}{math.PR}
+      \field{eprinttype}{arXiv}
+      \field{title}{Level crossings of fractional Brownian motion}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{eprint}
+      \verb 2308.08274
+      \endverb
+    \endentry
+    \entry{matsuda2023anderson}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=c00954a7b4174ce5ccb292fe6ad9438e}{%
+           family={Matsuda},
+           familyi={M\bibinitperiod},
+           given={Toyomu},
+           giveni={T\bibinitperiod}}}%
+        {{hash=279d8cba08a43a5d3862ae8b9501b2f2}{%
+           family={Zuijlen},
+           familyi={Z\bibinitperiod},
+           given={Willem},
+           giveni={W\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \strng{namehash}{8737789358dc7771edc819d82b57bd99}
+      \strng{fullhash}{8737789358dc7771edc819d82b57bd99}
+      \strng{bibnamehash}{8737789358dc7771edc819d82b57bd99}
+      \strng{authorbibnamehash}{8737789358dc7771edc819d82b57bd99}
+      \strng{authornamehash}{8737789358dc7771edc819d82b57bd99}
+      \strng{authorfullhash}{8737789358dc7771edc819d82b57bd99}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We construct random Schrödinger operators, called Anderson Hamiltonians, with Dirichlet and Neumann boundary conditions for a fairly general class of singular random potentials on bounded domains. Furthermore, we construct the integrated density of states of these Anderson Hamiltonians, and we relate the Lifschitz tails (the asymptotics of the left tails of the integrated density of states) to the left tails of the principal eigenvalues.}
+      \field{eprintclass}{math.PR}
+      \field{eprinttype}{arXiv}
+      \field{title}{Anderson Hamiltonians with singular potentials}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{eprint}
+      \verb 2211.01199
+      \endverb
+    \endentry
+    \entry{Matsuda:2022tv}{article}{}
+      \name{author}{1}{}{%
+        {{hash=c00954a7b4174ce5ccb292fe6ad9438e}{%
+           family={Matsuda},
+           familyi={M\bibinitperiod},
+           given={Toyomu},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{c00954a7b4174ce5ccb292fe6ad9438e}
+      \strng{fullhash}{c00954a7b4174ce5ccb292fe6ad9438e}
+      \strng{bibnamehash}{c00954a7b4174ce5ccb292fe6ad9438e}
+      \strng{authorbibnamehash}{c00954a7b4174ce5ccb292fe6ad9438e}
+      \strng{authornamehash}{c00954a7b4174ce5ccb292fe6ad9438e}
+      \strng{authorfullhash}{c00954a7b4174ce5ccb292fe6ad9438e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We construct the integrated density of states of the Anderson Hamiltonian with two-dimensional white noise by proving the convergence of the Dirichlet eigenvalue counting measures associated with the Anderson Hamiltonians on the boxes. We also determine the logarithmic asymptotics of the left tail of the integrated density of states. Furthermore, we apply our result to a moment explosion of the parabolic Anderson model in the plane.}
+      \field{isbn}{0304-4149}
+      \field{journaltitle}{Stochastic Processes and their Applications}
+      \field{title}{Integrated density of states of the Anderson Hamiltonian with two-dimensional white noise}
+      \field{volume}{153}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{91\bibrangedash 127}
+      \range{pages}{37}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.spa.2022.07.007
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0304414922001727
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0304414922001727
+      \endverb
+      \keyw{Integrated density of states; Anderson Hamiltonian; Parabolic Anderson model; White noise; Lifshitz tails; Self-intersection local time}
+      \warn{\item article entry 'Matsuda:2022tv' (toyomu_matsuda_publications.bib): Invalid format '2022/11/01/' of date field 'date' - ignoring}
+    \endentry
+    \entry{matsuda2022extension}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=c00954a7b4174ce5ccb292fe6ad9438e}{%
+           family={Matsuda},
+           familyi={M\bibinitperiod},
+           given={Toyomu},
+           giveni={T\bibinitperiod}}}%
+        {{hash=58e4079a8b729c0e164eb5e2dc5dccd8}{%
+           family={Perkowski},
+           familyi={P\bibinitperiod},
+           given={Nicolas},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{b1dbddc8ce2dfd707e9290c1d4d5ae6e}
+      \strng{fullhash}{b1dbddc8ce2dfd707e9290c1d4d5ae6e}
+      \strng{bibnamehash}{b1dbddc8ce2dfd707e9290c1d4d5ae6e}
+      \strng{authorbibnamehash}{b1dbddc8ce2dfd707e9290c1d4d5ae6e}
+      \strng{authornamehash}{b1dbddc8ce2dfd707e9290c1d4d5ae6e}
+      \strng{authorfullhash}{b1dbddc8ce2dfd707e9290c1d4d5ae6e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We give an extension of Lê's stochastic sewing lemma [Electron. J. Probab. 25: 1 - 55, 2020]. The stochastic sewing lemma proves convergence in $L_m$ of Riemann type sums $\sum_{[s,t] \in \pi} A_{s,t}$ for an adapted two-parameter stochastic process $A$, under certain conditions on the moments of $A_{s,t}$ and of conditional expectations of $A_{s,t}$ given $\mathcal{F}_s$. Our extension replaces the conditional expectation given $\mathcal{F}_s$ by that given $\mathcal{F}_v$ for $v<s$, and it allows to make use of asymptotic decorrelation properties between $A_{s,t}$ and $\mathcal{F}_v$ by including a singularity in $(s−v)$. We provide three applications for which Lê's stochastic sewing lemma seems to be insufficient.The first is to prove the convergence of Itô or Stratonovich approximations of stochastic integrals along fractional Brownian motions under low regularity assumptions. The second is to obtain new representations of local times of fractional Brownian motions via discretization. The third is to improve a regularity assumption on the diffusion coefficient of a stochastic differential equation driven by a fractional Brownian motion for pathwise uniqueness and strong existence.}
+      \field{eprintclass}{math.PR}
+      \field{eprinttype}{arXiv}
+      \field{title}{An extension of the stochastic sewing lemma and applications to fractional stochastic calculus}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{eprint}
+      \verb 2206.01686
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
