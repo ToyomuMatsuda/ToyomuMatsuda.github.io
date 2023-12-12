@@ -33,4 +33,8 @@ details[open] summary {
   border-bottom: 1px solid #aaa;
   margin-bottom: 0.5em;
 }
+
+details[open] {
+  padding-bottom: 0.5em;
+}
 </style>

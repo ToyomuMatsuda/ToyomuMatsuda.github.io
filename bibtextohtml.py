@@ -23,6 +23,11 @@ To run the program, execute the following command in a terminal:
 
     python bibtex2html.py example.bib template.html output.html
 
+In default, 
+    bibfile = './assets/cv/toyomu_matsuda_publications.bib'
+    templatefile = 'research_template.markdown'
+    outputfile = 'research.markdown'.
+
 Here, `bibtex.bib` is the BibTeX file that you want to convert, and
 `template.html` is any template file containing the following
 placeholders:

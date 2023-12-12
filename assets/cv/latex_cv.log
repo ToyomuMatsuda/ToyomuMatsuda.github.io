@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.25)  27 SEP 2023 13:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.6)  12 DEC 2023 09:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/toyom95/Documents/ToyomuMatsuda.github.io/assets/cv/latex_cv.tex
-(/Users/toyom95/Documents/ToyomuMatsuda.github.io/assets/cv/latex_cv.tex
+**/Users/toyomumatsuda/Desktop/ToyomuMatsuda.github.io/assets/cv/latex_cv.tex
+(/Users/toyomumatsuda/Desktop/ToyomuMatsuda.github.io/assets/cv/latex_cv.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -553,14 +553,13 @@ Package biblatex Warning: Split bibliography detected.
 (biblatex)                This warning can be suppressed with
 (biblatex)                '\BiblatexSplitbibDefernumbersWarningOff'.
 
+[1
 
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 Overfull \hbox (3.37703pt too wide) in paragraph at lines 123--123
 \OT1/cmr/m/it/12 ap-pli-ca-tions to frac-tional stochas-tic cal-cu-lus\OT1/cmr/m/n/12 . 2022. arXiv: []$\OT1/cmtt/m/n/12 2206 . 01686$ [math.PR][]\OT1/cmr/m/n/12 . 
  []
 
-[1
-
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 
 Package biblatex Warning: Split bibliography detected.
 (biblatex)                Many simple split bibliography setups with
@@ -578,18 +577,18 @@ Package logreq Info: Writing requests to 'latex_cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 17028 strings out of 476025
- 299226 string characters out of 5790017
+ 17033 strings out of 476025
+ 299425 string characters out of 5790017
  1865388 words of memory out of 5000000
- 37321 multiletter control sequences out of 15000+600000
+ 37324 multiletter control sequences out of 15000+600000
  517092 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,9n,76p,1382b,1425s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,9n,76p,1386b,1501s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on latex_cv.pdf (2 pages, 85545 bytes).
+Output written on latex_cv.pdf (2 pages, 87526 bytes).
 PDF statistics:
- 95 PDF objects out of 1000 (max. 8388607)
- 78 compressed objects within 1 object stream
- 17 named destinations out of 1000 (max. 500000)
+ 99 PDF objects out of 1000 (max. 8388607)
+ 82 compressed objects within 1 object stream
+ 19 named destinations out of 1000 (max. 500000)
  49 words of extra memory for PDF output out of 10000 (max. 10000000)
 

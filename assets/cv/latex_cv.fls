@@ -1,8 +1,8 @@
-PWD /Users/toyom95/Documents/ToyomuMatsuda.github.io/assets/cv
+PWD /Users/toyomumatsuda/Desktop/ToyomuMatsuda.github.io/assets/cv
 INPUT /usr/local/texlive/2023/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/toyom95/Documents/ToyomuMatsuda.github.io/assets/cv/latex_cv.tex
+INPUT /Users/toyomumatsuda/Desktop/ToyomuMatsuda.github.io/assets/cv/latex_cv.tex
 OUTPUT latex_cv.log
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls

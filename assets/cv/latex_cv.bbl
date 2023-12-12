@@ -62,6 +62,39 @@
       \verb 2308.08274
       \endverb
     \endentry
+    \entry{matsuda2023pathwise}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=c00954a7b4174ce5ccb292fe6ad9438e}{%
+           family={Matsuda},
+           familyi={M\bibinitperiod},
+           given={Toyomu},
+           giveni={T\bibinitperiod}}}%
+        {{hash=7cc4b832135bcb04ec8bafb48366119b}{%
+           family={Mayorcas},
+           familyi={M\bibinitperiod},
+           given={Avi},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{fe3db5bd4fd395db320aad930e667de1}
+      \strng{fullhash}{fe3db5bd4fd395db320aad930e667de1}
+      \strng{bibnamehash}{fe3db5bd4fd395db320aad930e667de1}
+      \strng{authorbibnamehash}{fe3db5bd4fd395db320aad930e667de1}
+      \strng{authornamehash}{fe3db5bd4fd395db320aad930e667de1}
+      \strng{authorfullhash}{fe3db5bd4fd395db320aad930e667de1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We show \emph{pathwise uniqueness} of multiplicative SDEs, in arbitrary dimensions, driven by fractional Brownian motion with Hurst parameter $H\in (1/3,1)$ with volatility coefficient $\sigma$ that is at least $\gamma$-Hölder continuous for $\gamma > \frac{1}{2H} \vee \frac{1-H}{H}$. This improves upon the long-standing results of Lyons (94, 98) and Davie (08) which cover the same regime but require $\sigma$ to be at least $\frac{1}{H}$-Hölder continuous. Our central innovation is to combine stochastic averaging estimates with refined versions of the stochastic sewing lemma, due to Lê (20), Gerencsér (22) and Matsuda and Perkowski (22).}
+      \field{eprintclass}{math.PR}
+      \field{eprinttype}{arXiv}
+      \field{title}{Pathwise Uniqueness for Multiplicative Young and Rough Differential Equations Driven by Fractional Brownian Motion}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{eprint}
+      \verb 2312.06473
+      \endverb
+    \endentry
     \entry{matsuda2023anderson}{misc}{}
       \name{author}{2}{}{%
         {{hash=c00954a7b4174ce5ccb292fe6ad9438e}{%

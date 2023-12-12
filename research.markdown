@@ -14,11 +14,13 @@ Information on talks, including slides, is available [here](https://docs.google.
 
 
 ## Preprints and accepted papers 
-4 papers have appeared. (1 papers accepted.) Last modified: 17 Sep 2023.
+5 papers have appeared. (1 papers accepted.) Last modified: 12 Dec 2023.
 <h4 id="y2023">2023</h4>
 
 
 <ul>
+<li>Toyomu Matsuda and Avi Mayorcas, <i>Pathwise Uniqueness for Multiplicative Young and Rough Differential Equations Driven by Fractional Brownian Motion</i>, arXiv:2312.06473, 2023.
+<details><summary>abstract</summary>We show \emph{pathwise uniqueness} of multiplicative SDEs, in arbitrary dimensions, driven by fractional Brownian motion with Hurst parameter $H\in (1/3,1)$ with volatility coefficient $\sigma$ that is at least $\gamma$-H\"older continuous for $\gamma > \frac{1}{2H} \vee \frac{1-H}{H}$. This improves upon the long-standing results of Lyons (94, 98) and Davie (08) which cover the same regime but require $\sigma$ to be at least $\frac{1}{H}$-H\"older continuous. Our central innovation is to combine stochastic averaging estimates with refined versions of the stochastic sewing lemma, due to Lê (20), Gerencsér (22) and Matsuda and Perkowski (22).</details></li>
 <li>Purba Das, Rafał Łochowski, Toyomu Matsuda and Nicolas Perkowski, <i>Level crossings of fractional Brownian motion</i>, arXiv:2308.08274, 2023 <a href="https://arxiv.org/abs/2308.08274">[arxiv]</a>.
 <details><summary>abstract</summary>Since the classical work of Lévy, it is known that the local time of Brownian motion can be characterized through the limit of level crossings. While subsequent extensions of this characterization have primarily focused on Markovian or martingale settings, this work presents a highly anticipated extension to fractional Brownian motion -- a prominent non-Markovian and non-martingale process. Our result is viewed as a fractional analogue of Chacon et al. (1981). Consequently, it provides a global path-by-path construction of fractional Brownian local time. Due to the absence of conventional probabilistic tools in the fractional setting, our approach utilizes completely different argument with a flavor of the subadditive ergodic theorem, combined with the shifted stochastic sewing lemma recently obtained in Matsuda and Perkowski (22, arXiv:2206.01686). Furthermore, we prove an almost-sure convergence of the $(1/H)$-th variation of fractional Brownian motion with the Hurst parameter $H$, along random partitions defined by level crossings, called Lebesgue partitions. This result raises an interesting conjecture on the limit, which seems to capture non-Markovian nature of fractional Brownian motion.</details></li>
 <li>Toyomu Matsuda and Willem van Zuijlen, <i>Anderson Hamiltonians with singular potentials</i>, arXiv:2211.01199, 2023 <a href="https://arxiv.org/abs/2211.01199">[arxiv]</a>.
@@ -50,5 +52,9 @@ summary {
 details[open] summary {
   border-bottom: 1px solid #aaa;
   margin-bottom: 0.5em;
+}
+
+details[open] {
+  padding-bottom: 0.5em;
 }
 </style>

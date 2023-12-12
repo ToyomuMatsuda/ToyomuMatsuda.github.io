@@ -1,18 +1,18 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'latex_cv.blg'
-[98] biber-darwin:340> INFO - === Wed Sep 27, 2023, 13:00:53
-[126] Biber.pm:419> INFO - Reading 'latex_cv.bcf'
-[230] Biber.pm:976> INFO - Using all citekeys in bib section 0
-[247] Biber.pm:4419> INFO - Processing section 0
-[263] Biber.pm:4610> INFO - Looking for bibtex file 'toyomu_matsuda_publications.bib' for section 0
-[266] bibtex.pm:1713> INFO - LaTeX decoding ...
-[286] bibtex.pm:1519> INFO - Found BibTeX data source 'toyomu_matsuda_publications.bib'
-[373] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[373] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[373] Biber.pm:4239> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[373] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[386] bbl.pm:660> INFO - Writing 'latex_cv.bbl' with encoding 'UTF-8'
-[390] bbl.pm:763> INFO - Output to latex_cv.bbl
-[391] Biber.pm:131> WARN - article entry 'Matsuda:2022tv' (toyomu_matsuda_publications.bib): Invalid format '2022/11/01/' of date field 'date' - ignoring
-[391] Biber.pm:131> WARN - ISBN '0304-4149' in entry 'Matsuda:2022tv' is invalid - run biber with '--validate_datamodel' for details.
-[391] Biber.pm:133> INFO - WARNINGS: 2
+[41] biber-darwin:340> INFO - === Tue Dec 12, 2023, 09:37:08
+[50] Biber.pm:419> INFO - Reading 'latex_cv.bcf'
+[91] Biber.pm:976> INFO - Using all citekeys in bib section 0
+[98] Biber.pm:4419> INFO - Processing section 0
+[104] Biber.pm:4610> INFO - Looking for bibtex file 'toyomu_matsuda_publications.bib' for section 0
+[105] bibtex.pm:1713> INFO - LaTeX decoding ...
+[109] bibtex.pm:1519> INFO - Found BibTeX data source 'toyomu_matsuda_publications.bib'
+[144] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[144] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[144] Biber.pm:4239> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[144] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[149] bbl.pm:660> INFO - Writing 'latex_cv.bbl' with encoding 'UTF-8'
+[150] bbl.pm:763> INFO - Output to latex_cv.bbl
+[151] Biber.pm:131> WARN - article entry 'Matsuda:2022tv' (toyomu_matsuda_publications.bib): Invalid format '2022/11/01/' of date field 'date' - ignoring
+[151] Biber.pm:131> WARN - ISBN '0304-4149' in entry 'Matsuda:2022tv' is invalid - run biber with '--validate_datamodel' for details.
+[151] Biber.pm:133> INFO - WARNINGS: 2
