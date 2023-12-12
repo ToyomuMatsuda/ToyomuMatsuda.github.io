@@ -13,7 +13,7 @@ let $B^H$ be a 1D fractional Brownian motion with Hurst parameter $H \in (0, 1)$
 we consider the number of upcrossings from $0$ to $\varepsilon$ in the interval $[0, T]$. 
 More precisely, we consider a sequence of stopping times by setting $T_0(\varepsilon) := 0$ and 
 \\[
-T_n(\varepsilon) := \inf\{t > T_{n-1}(\varepsilon) : B^H_{t} \in \varepsilon \mathbb{Z} \setminus \{B^H_{T_{n-1}(\varepsilon)} \}  \}.
+T_n(\varepsilon) := \inf \\{ t > T_{n-1}(\varepsilon) : B^H_{t} \in \varepsilon \mathbb{Z} \setminus \\{ B^H_{T_{n-1}(\varepsilon)} \\}  \\} .
 \\]
 Then we set $U_{0, T}(\varepsilon) := \# \{n : T_n(\varepsilon) \leq T, \,\, B^H_{T_{n-1}(\varepsilon)} = 0, \,\, B^H_{T_{n}(\varepsilon)} = \varepsilon, \}$. 
 The question is: what is the asymptotics of $U_{0, T}(\varepsilon)$ as $\varepsilon \to 0$? 
